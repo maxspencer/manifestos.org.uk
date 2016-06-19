@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>{% block title %}manifestos.org.uk{% endblock %}</title>
+  </head>
+  <body>
+    <header>
+      <p>manifestos.org.uk</p>
+      <hr />
+    </header>
+    {% block main %}{% endblock %}
+    <footer>
+      <hr />
+      <p>manifestos.org.uk is a project by <a href="https://twitter.com/maxspencer">Max Spencer</a></p>
+    </footer>
+    {% block body_end %}{% endblock %}
+  </body>
+</html>

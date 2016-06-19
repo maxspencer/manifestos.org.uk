@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+{% block main %}
+<h1>{{ election.name }}</h1>
+<p>{{ election.date.strftime("%A %d %B %Y") }}</p>
+
+<h2>Manifestos</h2>
+<ul>
+  {% for manifesto in election.manifestos %}
+  <li>
+    <a href="{{ manifesto.id }}">{{ manifesto.get("title", manifesto.id) }}</a></li>
+  {% endfor %}
+</ul>
+
+{% endblock main %}
