@@ -9,10 +9,23 @@ import yaml
 
 env = jinja2.Environment(loader=jinja2.FileSystemLoader("templates"))
 index_template = env.get_template("index.html")
-
+election_template = env.get_template("election.html")
+manifesto_template = env.get_template("manifesto.html")
 
 elections = list()
 election_dirs = os.listdir("manifestos")
+
+def output_page(path, html):
+    file_path = os.path.join("build", path)
+    try:
+        os.makedirs(os.path.dirname(file_path))
+        print("Created directory: " + os.path.dirname(file_path))
+    except OSError:
+        # Already exists
+        pass
+    with open(file_path, "w") as file:
+        file.write(html)
+        print("Wrote file: " + file_path)
 
 def election_yaml_path(election_dir):
     return os.path.join(
@@ -47,18 +60,12 @@ for election_dir in election_dirs:
     elections.append(election)
 
 sorted_elections = sorted(elections, key=itemgetter('date'))
-print(sorted_elections)
+output_page("index.html", index_template.render(elections=sorted_elections))
+
+for election in elections:
+    election_path = "%s/index.html" % election["id"]
+    output_page(election_path, election_template.render(election=election))
     
-with open(os.path.join("build", "index.html"), "w") as f:
-    f.write(index_template.render(elections=sorted_elections))
-
-election_template = env.get_template("election.html")
-
-for election in sorted_elections:
-    try:
-        os.mkdir(os.path.join("build", election["id"]))
-    except OSError:
-        # Already exists
-        pass
-    with open(os.path.join("build", election["id"], "index.html"), "w") as f:
-        f.write(election_template.render(election=election))
+    for manifesto in election["manifestos"]:
+        manifesto_path = "%s/%s/index.html" % (election["id"], manifesto["id"]) 
+        output_page(manifesto_path, manifesto_template.render(election=election, manifesto=manifesto))
