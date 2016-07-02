@@ -27,45 +27,61 @@ def output_page(path, html):
         file.write(html)
         print("Wrote file: " + file_path)
 
-def election_yaml_path(election_dir):
-    return os.path.join(
-        "manifestos",
-        election_dir,
-        election_dir + "-election.yaml"
+def read_manifesto_dir(path):
+    manifesto = dict(
+        id=os.path.basename(path),
+        files=dict()
     )
+    files = os.listdir(path)
+    file_paths = [os.path.join(path, name) for name in files]
+    for fp in file_paths:
+        ext = os.path.basename(fp).split(".", 1)[1]
+        manifesto["files"][ext] = fp
+        if fp.endswith(".yaml"):
+            with open(fp, "r") as f:
+                manifesto.update(yaml.load(f.read()))           
+    return manifesto
 
-for election_dir in election_dirs:
-    election = dict(id=election_dir)
+def read_election_dir(path):
+    election = dict(
+        id=os.path.basename(path),
+        manifestos=list()
+    )
+    files = os.listdir(path)
+    file_paths = [os.path.join(path, name) for name in files]
+    for fp in file_paths:
+        if os.path.isdir(fp):
+            election["manifestos"].append(read_manifesto_dir(fp))
+        elif fp.endswith(".yaml"):
+            with open(fp, "r") as f:
+                election.update(yaml.load(f.read()))
+    return election
 
-    # Read meta data
-    with open(election_yaml_path(election_dir), "r") as f:
-        election.update(yaml.load(f.read()))
+def read_all(path):
+    elections = list()
+    files = os.listdir(path)
+    file_paths = [os.path.join(path, name) for name in files]
+    for fp in file_paths:
+        if os.path.isdir(fp):
+            elections.append(read_election_dir(fp))
+    return elections
 
-    # Get manifestos
-    manifestos = list()
-    all_files = os.listdir(os.path.join("manifestos", election_dir))
-    manifesto_dirs = [
-        d for d in all_files
-        if os.path.isdir(os.path.join("manifestos", election_dir, d))
-    ]
-    for mdir in manifesto_dirs:
-        manifesto = dict(id=mdir)
-        try:
-            with open(os.path.join("manifestos", election_dir, mdir, election_dir + "-" + mdir + "-manifesto.yaml"), "r") as f:
-                manifesto.update(yaml.load(f.read()))
-        except IOError:
-            pass
-        manifestos.append(manifesto)
-    election["manifestos"] = sorted(manifestos, key=lambda m: m.get("priority", 999))
-    elections.append(election)
-
+elections = read_all("manifestos")
+print(elections)
 sorted_elections = sorted(elections, key=itemgetter('date'))
 output_page("index.html", index_template.render(elections=sorted_elections))
 
+def output_election_page(election):
+    path = "%s/index.html" % election["id"]
+    html = election_template.render(election=election)
+    output_page(path, html)
+
+def output_manifesto_page(election, manifesto):
+    path = "%s/%s/index.html" % (election["id"], manifesto["id"])
+    html = manifesto_template.render(election=election, manifesto=manifesto)
+    output_page(path, html)
+
 for election in elections:
-    election_path = "%s/index.html" % election["id"]
-    output_page(election_path, election_template.render(election=election))
-    
+    output_election_page(election)
     for manifesto in election["manifestos"]:
-        manifesto_path = "%s/%s/index.html" % (election["id"], manifesto["id"]) 
-        output_page(manifesto_path, manifesto_template.render(election=election, manifesto=manifesto))
+        output_manifesto_page(election, manifesto)
