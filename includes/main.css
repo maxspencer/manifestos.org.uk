@@ -1,7 +1,7 @@
 body {
     margin: 0;
     font-family: Arial, sans serif;
-    color: #444;
+    color: #333;
     background: #fff;
 }
 
@@ -32,9 +32,17 @@ main {
 }
 
 footer {
-    margin-top: 5em;
+    margin-top: 3em;
     padding: 1px 2em;
-    border-style: solid;
-    border-width: 1px 0;
-    border-color: #ccc;
+    color: #aaa;
+}
+
+.divider {
+    width: 20em;
+    height: 0;
+    border-top: solid 1px #ccc;
+}
+
+footer a {
+    color: #777;
 }
