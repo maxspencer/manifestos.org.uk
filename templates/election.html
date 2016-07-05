@@ -14,7 +14,7 @@
 <ul>
   {% for manifesto in election.manifestos %}
   <li>
-    <a href="{{ manifesto.id }}">{{ manifesto.get("title", manifesto.id) }}</a></li>
+    <a href="{{ manifesto.id }}">{{ manifesto.get("name", manifesto.id) }}</a></li>
   {% endfor %}
 </ul>
 
