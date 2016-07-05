@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    font-family: Arial, sans serif;
+    color: #444;
+    background: #fff;
+}
+
+a {
+    color: #d56;
+}
+
+header {
+    margin: 0;
+    padding: 1px 2em;
+    background: #222;
+    color: #777;
+}
+
+header h1 {
+    font-size: 2.4em;
+    font-weight: normal;
+    color: #fff;
+}
+
+header a {
+    color: #f78;
+    text-decoration: none;
+}
+
+main {
+    padding: 1px 2em;
+}
+
+footer {
+    margin-top: 5em;
+    padding: 1px 2em;
+    border-style: solid;
+    border-width: 1px 0;
+    border-color: #ccc;
+}

@@ -1,17 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+    <link rel="stylesheet" type="text/css" href="/includes/main.css"/>
     <title>{% block title %}manifestos.org.uk{% endblock %}</title>
   </head>
   <body>
     <header>
-      <p>manifestos.org.uk</p>
-      <hr />
+      {% block header %}{% endblock %}
     </header>
-    {% block main %}{% endblock %}
+    <main>
+      {% block main %}{% endblock %}
+    </main>
     <footer>
-      <hr />
-      <p>manifestos.org.uk is a project by <a href="https://twitter.com/maxspencer">Max Spencer</a></p>
+      <p><a href="http://manifestos.org.uk">manifestos.org.uk</a> is an <a href="https://github.com/maxspencer/manifestos.org.uk">open source</a> project by <a href="https://twitter.com/maxspencer">Max Spencer</a></p>
     </footer>
     {% block body_end %}{% endblock %}
   </body>

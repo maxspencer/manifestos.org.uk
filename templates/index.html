@@ -1,7 +1,12 @@
 {% extends "base.html" %}
 
+{% block header %}
+<p>An archive of political manifestos</p>
+<h1>manifestos.org.uk</h1>
+{% endblock %}
+
 {% block main %}
-<h1>Elections</h1>
+<h2>Manifestos by election</h2>
 <ol>
   {% for election in elections %}
   <li>

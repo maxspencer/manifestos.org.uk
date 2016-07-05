@@ -1,5 +1,21 @@
 {% extends "base.html" %}
 
+{% block title %}manifestos.org.uk / {{ election.id }} / {{ manifesto.id }}{% endblock %}
+
+{% block header %}
+<p>
+  <a href="/">manifestos.org.uk</a> /
+  <a href="/{{ election.id }}">{{ election.id }}</a> /
+  <a href="/{{ election.id }}/{{ manifesto.id }}">{{ manifesto.id }}</a>
+</p>
+<h1>{% if manifesto.title %}{{ manifesto.title }}{% else %}Title missing{% endif %}</h1>
+{% endblock header %}
+
 {% block main %}
-<h1>{{ manifesto.title }}</h1>
+
+<p>
+  Source: <a href="{{ manifesto.source }}">{{ manifesto.source }}</a>
+  (<a href="{{election.id}}-{{manifesto.id}}-manifesto.pdf">mirror</a>)
+</p>
+  
 {% endblock main %}

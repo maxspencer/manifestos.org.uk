@@ -1,7 +1,13 @@
 {% extends "base.html" %}
 
-{% block main %}
+{% block title %}manifestos.org.uk / {{ election.id }}{% endblock%}
+
+{% block header %}
+<p><a href="/">manifestos.org.uk</a> / <a href="/{{ election.id }}">{{ election.id }}</a></p>
 <h1>{{ election.name }}</h1>
+{% endblock %}
+
+{% block main %}
 <p>{{ election.date.strftime("%A %d %B %Y") }}</p>
 
 <h2>Manifestos</h2>

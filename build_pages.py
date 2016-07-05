@@ -1,6 +1,7 @@
 import os
 import os.path
 import json
+import shutil
 from operator import itemgetter
 
 import jinja2
@@ -15,17 +16,26 @@ manifesto_template = env.get_template("manifesto.html")
 elections = list()
 election_dirs = os.listdir("manifestos")
 
-def output_page(path, html):
-    file_path = os.path.join("build", path)
+def output_dirs(path):
+    dir = os.path.dirname(path)
     try:
-        os.makedirs(os.path.dirname(file_path))
-        print("Created directory: " + os.path.dirname(file_path))
+        os.makedirs(dir)
+        print("Created directory: " + dir)
     except OSError:
         # Already exists
         pass
-    with open(file_path, "w") as file:
+
+def output_page(path, html):
+    output_path = os.path.join("build", path)
+    output_dirs(output_path)
+    with open(output_path, "w") as file:
         file.write(html)
-        print("Wrote file: " + file_path)
+        print("Wrote file: " + output_path)
+
+def output_file(path, source):
+    output_path = os.path.join("build", path)
+    shutil.copyfile(source, output_path)
+    print("Copied file: " + output_path)
 
 def read_manifesto_dir(path):
     manifesto = dict(
@@ -35,6 +45,9 @@ def read_manifesto_dir(path):
     files = os.listdir(path)
     file_paths = [os.path.join(path, name) for name in files]
     for fp in file_paths:
+        if os.path.basename(fp).startswith("."):
+            # ignore hidden files
+            continue
         ext = os.path.basename(fp).split(".", 1)[1]
         manifesto["files"][ext] = fp
         if fp.endswith(".yaml"):
@@ -77,9 +90,14 @@ def output_election_page(election):
     output_page(path, html)
 
 def output_manifesto_page(election, manifesto):
-    path = "%s/%s/index.html" % (election["id"], manifesto["id"])
-    html = manifesto_template.render(election=election, manifesto=manifesto)
-    output_page(path, html)
+    output_page(
+        "{}/{}/index.html".format(election["id"], manifesto["id"]),
+        manifesto_template.render(election=election, manifesto=manifesto)
+    )
+    output_file(
+        "{e}/{m}/{e}-{m}-manifesto.pdf".format(e=election["id"], m=manifesto["id"]),
+        manifesto["files"]["pdf"]
+    )
 
 for election in elections:
     output_election_page(election)
