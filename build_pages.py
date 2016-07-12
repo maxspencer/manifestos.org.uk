@@ -2,10 +2,12 @@ import os
 import os.path
 import json
 import shutil
+import subprocess
 from operator import itemgetter
 
 import jinja2
 import yaml
+import PyPDF2
 
 
 env = jinja2.Environment(loader=jinja2.FileSystemLoader("templates"))
@@ -16,24 +18,29 @@ manifesto_template = env.get_template("manifesto.html")
 elections = list()
 election_dirs = os.listdir("manifestos")
 
+def build_path(path):
+    return os.path.join("build", path)
+
 def output_dirs(path):
-    dir = os.path.dirname(path)
+    if "." in os.path.basename(path):
+        path = os.path.dirname(path)
     try:
-        os.makedirs(dir)
-        print("Created directory: " + dir)
+        os.makedirs(path)
+        print("Created directory: " + path)
     except OSError:
         # Already exists
         pass
 
 def output_page(path, html):
-    output_path = os.path.join("build", path)
+    output_path = build_path(path)
     output_dirs(output_path)
     with open(output_path, "w") as file:
         file.write(html)
         print("Wrote file: " + output_path)
 
 def output_file(path, source):
-    output_path = os.path.join("build", path)
+    output_path = build_path(path)
+    output_dirs(output_path)
     shutil.copyfile(source, output_path)
     print("Copied file: " + output_path)
 
@@ -90,15 +97,49 @@ def output_election_page(election):
     output_page(path, html)
 
 def output_manifesto_page(election, manifesto):
+    with open(manifesto["files"]["pdf"], "rb") as f:
+        page_count = PyPDF2.PdfFileReader(f).getNumPages()
+        
+    output_dir = election["id"] + "/" + manifesto["id"]
+    
     output_page(
-        "{}/{}/index.html".format(election["id"], manifesto["id"]),
-        manifesto_template.render(election=election, manifesto=manifesto)
+        output_dir + "/index.html",
+        manifesto_template.render(
+            election=election,
+            manifesto=manifesto,
+            page_count=page_count
+        )
     )
+    
     output_file(
-        "{e}/{m}/{e}-{m}-manifesto.pdf".format(e=election["id"], m=manifesto["id"]),
+        "{}/{}-{}-manifesto.pdf".format(output_dir, election["id"], manifesto["id"]),
         manifesto["files"]["pdf"]
     )
-
+    
+    image_dir = build_path(output_dir + "/images")
+    output_dirs(image_dir)
+    subprocess.check_call([
+        "pdftk",
+        manifesto["files"]["pdf"],
+        "burst",
+        "output",
+        "{}/{}-{}-manifesto-page-%d.pdf".format(image_dir, election["id"], manifesto["id"])
+    ])
+    #os.remove(image_dir + "/doc_data.txt")
+    subprocess.check_call([
+        "mogrify",
+        "-trim",
+        "+repage",
+        "-background", "white",
+        "-alpha", "Remove",
+        "+antialias",
+        "-density", "300",
+        "-format", "png",
+        "-resize", "960",
+        "--", "{}/{}-{}-manifesto-page-?.pdf".format(image_dir, election["id"], manifesto["id"])
+    ])
+    
+    
 for election in elections:
     output_election_page(election)
     for manifesto in election["manifestos"]:

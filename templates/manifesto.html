@@ -17,5 +17,11 @@
   Source: <a href="{{ manifesto.source }}">{{ manifesto.source }}</a>
   (<a href="{{election.id}}-{{manifesto.id}}-manifesto.pdf">mirror</a>)
 </p>
+
+{% for i in range(page_count) %}
+<p class="page">
+  <img src="images/{{election.id}}-{{manifesto.id}}-manifesto-page-{{i+1}}.png"/>
+</p>
+{% endfor %}
   
 {% endblock main %}

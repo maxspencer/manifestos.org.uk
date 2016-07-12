@@ -1,6 +1,8 @@
-html:
+html: includes
 	mkdir -p build/includes
 	env/bin/python build_pages.py
+
+includes:
 	cp -r includes/* build/includes
 
 clean:

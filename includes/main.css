@@ -46,3 +46,7 @@ footer {
 footer a {
     color: #777;
 }
+
+.page img {
+    border: solid 4px #ccc;
+}
