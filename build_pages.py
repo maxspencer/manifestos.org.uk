@@ -3,11 +3,14 @@ import os.path
 import json
 import shutil
 import subprocess
+import codecs
+import re
 from operator import itemgetter
 
 import jinja2
 import yaml
 import PyPDF2
+import markdown
 
 
 env = jinja2.Environment(loader=jinja2.FileSystemLoader("templates"))
@@ -34,7 +37,7 @@ def output_dirs(path):
 def output_page(path, html):
     output_path = build_path(path)
     output_dirs(output_path)
-    with open(output_path, "w") as file:
+    with codecs.open(output_path, "w", encoding="utf-8") as file:
         file.write(html)
         print("Wrote file: " + output_path)
 
@@ -101,13 +104,27 @@ def output_manifesto_page(election, manifesto):
         page_count = PyPDF2.PdfFileReader(f).getNumPages()
         
     output_dir = election["id"] + "/" + manifesto["id"]
+
+    try:
+        with codecs.open(manifesto["files"]["md"], "r", encoding="utf-8") as f:
+            md = f.read()
+            md_pages = md.split(u'<br class="page-break" />')
+            md_html = u''
+            page_fmt = u'<div class="page" id="page-{}">\n{}\n</div>'
+            i = 1
+            for md_page in md_pages:
+                md_html += page_fmt.format(i, markdown.markdown(md_page))
+                i += 1
+    except KeyError:
+        md_html="none"
     
     output_page(
         output_dir + "/index.html",
         manifesto_template.render(
             election=election,
             manifesto=manifesto,
-            page_count=page_count
+            page_count=page_count,
+            md_html=md_html
         )
     )
     
@@ -118,6 +135,7 @@ def output_manifesto_page(election, manifesto):
     
     image_dir = build_path(output_dir + "/images")
     output_dirs(image_dir)
+    '''
     subprocess.check_call([
         "pdftk",
         manifesto["files"]["pdf"],
@@ -138,6 +156,7 @@ def output_manifesto_page(election, manifesto):
         "-resize", "960",
         "--", "{}/{}-{}-manifesto-page-?.pdf".format(image_dir, election["id"], manifesto["id"])
     ])
+    '''
     
     
 for election in elections:

@@ -15,40 +15,40 @@
 FOREWORD by David Cameron – Leader of the Conservative Party...5
 
 1. AN ECONOMIC PLAN TO HELP YOU AND YOUR FAMILY
-  * A strong economy to help you and your family...7
-  * Better roads, trains and modern communications...14
+    * A strong economy to help you and your family...7
+    * Better roads, trains and modern communications...14
 
 2. JOBS FOR ALL
-  * Jobs for all...17
+    * Jobs for all...17
 
 3. CUTTING YOUR TAXES, MAKING WELFARE FAIRER AND CONTROLLING IMMIGRATION
-  * Cutting your taxes and building a fairer welfare system...25
-  * Controlled immigration that benefits Britain...29
+    * Cutting your taxes and building a fairer welfare system...25
+    * Controlled immigration that benefits Britain...29
 
 4. THE BEST SCHOOLS AND HOSPITALS FOR YOU AND YOUR FAMILY
-  * Giving your child the best start in life...33
-  * Protecting and improving our National Health Service...37
-  * Enabling you to enjoy our heritage, creativity and sports...41
-  * Helping you build the Big Society...45
-  * Making government work better for you...47
+    * Giving your child the best start in life...33
+    * Protecting and improving our National Health Service...37
+    * Enabling you to enjoy our heritage, creativity and sports...41
+    * Helping you build the Big Society...45
+    * Making government work better for you...47
 
 5. SECURING YOUR HOME AND YOUR NEIGHBOURHOOD
-  * Helping you to buy a home of your own...51
-  * Protecting and enhancing our natural environment...54
-  * Guaranteeing you clean, affordable and secure energy supplies...56
-  * Fighting crime and standing up for victims...58
-  * Preventing terrorism, countering extremism...61
+    * Helping you to buy a home of your own...51
+    * Protecting and enhancing our natural environment...54
+    * Guaranteeing you clean, affordable and secure energy supplies...56
+    * Fighting crime and standing up for victims...58
+    * Preventing terrorism, countering extremism...61
 
 6. DIGNITY IN YOUR RETIREMENT
-  * Dignity in your retirement...65
+    * Dignity in your retirement...65
 
 7. KEEPING OUR COUNTRY SECURE
-  * Stronger together: a Union for the 21st century...69
-  * Real change in our relationship with the European Union...72
-  * A Britain standing tall in the world...75
-  * A stronger voice for our nation on the world stage...76
-  * Keeping Britain safe...77
-  * Tackling global challenges to make you safer and more prosperous...78
+    * Stronger together: a Union for the 21st century...69
+    * Real change in our relationship with the European Union...72
+    * A Britain standing tall in the world...75
+    * A stronger voice for our nation on the world stage...76
+    * Keeping Britain safe...77
+    * Tackling global challenges to make you safer and more prosperous...78
 
 8. CONCLUSION...81 
 

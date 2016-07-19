@@ -1,13 +1,10 @@
-<span class="page" id="page-1">
-
 **Britain only succeeds when working people succeed. This is a plan to reward hard work, share prosperity and build a better Britain.**
 
 # Britain can be better
 
 The Labour Party Manifesto 2015
 
-</span>
-<span class="page" id="page-2">
+<br class="page-break" />
 
 ## The Labour Party Manifesto 2015
 
@@ -23,11 +20,9 @@ A Labour government will cut the deficit every year. The first line of Labour’
 
 We will get national debt falling and a surplus on the current budget as soon as possible in the next parliament. This manifesto sets out that we will not compromise on this commitment.
 
-</span>
-<span class="page" id="page-3">
+<br class="page-break" />
 
-</span>
-<span class="page" id="page-4">
+<br class="page-break" />
 
 ## Contents
 
@@ -47,11 +42,9 @@ Standing up for Britain’s interests in Europe and the world... p73
 
 Time for change... p83
 
-</span>
-<span class="page" id="page-5">
+<br class="page-break" />
 
-</span>
-<span class="page" id="page-6">
+<br class="page-break" />
 
 ## Foreword
 
@@ -75,16 +68,13 @@ It means a Britain where everyone plays by the same rules, including those at th
 
 For me, the privilege of serving as Prime Minister in our country would be for one purpose alone: to work every day to help build a country that works again for working people. This manifesto is our plan to achieve that goal.
 
-</span>
-<span class="page" id="page-7">
+<br class="page-break" />
 
-</span>
-<span class="page" id="page-8">
+<br class="page-break" />
 
 ## We will build a better future for Britain
 
-</span>
-<span class="page" id="page-9">
+<br class="page-break" />
 
 **Britain is a great country ready to build a better future. This manifesto sets out Labour’s plan for national renewal.**
 
@@ -98,8 +88,7 @@ Our economy and our system of government are failing people. Many have come to b
 
 Many of these problems have been mounting for years. Some, like the rise of inequality, are felt in countries all around the world. So the Conservatives did not cause all of them, but they have made them far worse. Their view is that economic success depends just on a few at the top. They think that insecurity will make people work harder and that low pay is the only way to be competitive in the global market. They don’t believe we can afford decent public services when times are hard. They have been giving power to large unaccountable firms rather than to people, and now they want to make deeper cuts in the next three years than we have seen in the last five years.
 
-</span>
-<span class="page" id="page-10">
+<br class="page-break" />
 
 There are some who believe there is nothing we can do to change things for the better. They feel powerless. They are losing faith that those with power will ever listen to them. We understand these feelings. But we believe we can renew our country and make a better future for working people. We have learned the lessons of the past. We were in government for thirteen years and left the country a far better place to live in. But we did not get everything right. We have learned and we have changed.
 
@@ -111,8 +100,7 @@ In this election, the country has a choice. We can continue with a Conservative 
 
 We believe that Britain only succeeds when working families succeed. As the economy at last recovers, people want the opportunity to use their skills and talents to make a better life for themselves and their children. Our country’s greatest asset is the hard work and talent of our people.
 
-</span>
-<span class="page" id="page-11">
+<br class="page-break" />
 
 Labour’s plan is to build firmer economic foundations for creating wealth, rewarding hard work and competing in the world.
 
@@ -126,8 +114,7 @@ We will build up our NHS so that it has time to care, funding 8,000 more GPs, 20
 
 We want a high quality education for all of our children. We will protect the education budget and raise teaching standards, making sure there are smaller class sizes for five, six and seven-year-olds.
 
-</span>
-<span class="page" id="page-12">
+<br class="page-break" />
 
 The common life we share is who we are as a country. Not everyone is the same, but each of us sharing a sense of belonging, being valued equally and being able to contribute to the common good. Immigration has made an important contribution to our economic and social life, but it needs to be properly controlled. With a Labour Government, migrants from the EU will not be able to claim benefits until they have lived here for at least two years. We will make it illegal to undercut wages by exploiting migrant workers, and work to strengthen integration within our communities. Everyone who works with the public in our public services must be able to speak English.
 
@@ -139,26 +126,21 @@ Our country faces global challenges of climate change, terrorism and the spread 
 
 Labour’s plan for national renewal will bring about real, meaningful change that each person will be able to feel in their daily life. We know that to make Britain a better country, opportunity must belong to everyone and not just a few. We will lend a helping hand to all those who need it, but we will also ask more of individuals and communities. We can only rebuild our country if everyone plays their part and feels they have a stake in society.
 
-</span>
-<span class="page" id="page-13">
+<br class="page-break" />
 
 We believe in living within our means. We will not make promises we cannot keep, and we will not introduce changes unless they are funded. There is not a single policy in this manifesto that is funded by additional borrowing. Not a single one.
 
 Our plan is to build a secure, prosperous and more equal country open to the world, in which everyone has the opportunity to get on and do their best. We will provide strong and effective government but everyone will need to contribute and play their part. It will be hard, but working together we can do it.
 
-</span>
-<span class="page" id="page-14">
+<br class="page-break" />
 
-</span>
-<span class="page" id="page-15">
+<br class="page-break" />
 
-</span>
-<span class="page" id="page-16">
+<br class="page-break" />
 
 ## We will build an economy that works for working people
 
-</span>
-<span class="page" id="page-17">
+<br class="page-break" />
 
 **We know a simple truth. Britain only succeeds when working families succeed. It is how our country has won through in the past and how it will succeed in the future. But so many people are putting in the hours and not seeing the rewards. That is why there is a cost of living crisis. Our first task in government is to change our economy so that it works for all of Britain’s businesses and working people.**
 
@@ -172,8 +154,7 @@ This cost-of-living crisis is bad for families, bad for business, and bad for Br
 
 We will have to work and earn our way toward a more fairly shared and enduring prosperity. We are a great commercial nation that has been at the centre of global trade for centuries. We have a long tradition of innovation and enterprise.
 
-</span>
-<span class="page" id="page-18">
+<br class="page-break" />
 
 We have been quick to seize the opportunities of the internet. We have big strengths to build upon: world-leading universities, an outstanding science research base, an open economy with one of the highest rates of foreign direct investment in the world, and manys successful global companies.
 
@@ -187,8 +168,7 @@ The Conservative-led Government promised to balance the books in this Parliament
 
 Labour’s plan to balance the books means making tough, but fairer choices. We will reverse the Government’s top-rate tax cut so that the highest one per cent of earners, with an income of over £150,000, contribute a little more to help get the deficit down. We will stop paying Winter Fuel Payments to the richest five per cent of pensioners, and cap child benefit rises for two years. Outside of the protected areas of health, education and international development there will be cuts in spending. Ministerial pay will be cut and then frozen until we have balanced the books. All proceeds from the sale of our stakes in Lloyds and RBS will be used to repay the national debt.
 
-</span>
-<span class="page" id="page-19">
+<br class="page-break" />
 
 We will live within our means. We have no proposals for any new spending paid for by additional borrowing. All of our commitments will be paid for by reducing spending elsewhere or by raising extra revenue. For example, we will introduce a tax on properties worth over £2 million to help raise the £2.5 billion a year for an NHS Time to Care Fund – part of our plan to save and improve the health service. We will legislate to require all major parties to have their manifesto commitments independently audited by the Office for Budget Responsibility at each general election.
 
@@ -200,8 +180,7 @@ We will create a fairer tax system, helping those on middle and lower incomes by
 
 Our first Finance Bill will close the tax loopholes that cost the Exchequer billions of pounds a year. We will introduce tougher penalties for those abusing the tax system, end unfair tax breaks used by hedge funds and others, and bear down on disguised employment. We will seek international agreement to make country-by-country reporting information publicly available, and we will act at home if agreement is not reached. British Overseas Territories and Crown Dependencies will be required to produce publicly available registries of the real owners of companies based there.
 
-</span>
-<span class="page" id="page-20">
+<br class="page-break" />
 
 We will carry out an immediate review into the culture and practices of HMRC so that everyone follows the same rules and we increase the rigour of the tax system. And we will abolish non-dom status so that all those who make the UK their home pay tax in the same way as the rest of us.
 
@@ -217,8 +196,7 @@ We will continue to support the construction of High Speed Two, but keep costs d
 
 Following the Davies Review, we will make a swift decision on expanding airport capacity in London and the South East, balancing the need for growth and the environmental impact.
 
-</span>
-<span class="page" id="page-21">
+<br class="page-break" />
 
 Scientific discovery and technological innovation will drive economic advancement this century. We will introduce a new long-term funding policy framework for science and innovation, providing the stability and continuity that our companies and research institutes need to succeed.
 
@@ -232,8 +210,7 @@ Labour’s longer-term approach will drive innovation and build on our strengths
 
 Labour will ensure that all parts of the country benefit from affordable, high speed broadband by the end of the Parliament. We will work with the industry and the regulator to maximise private sector investment and deliver the mobile infrastructure needed to extend coverage and reduce ‘not spots’, including in areas of market failure. And we will support community-based campaigns to reduce the proportion of citizens unable to use the internet and help those who need it to get the skills to make the most of digital technology.
 
-</span>
-<span class="page" id="page-22">
+<br class="page-break" />
 
 Our universities are amongst the finest in the world. Some are already helping our regional economies by forming strong links with industry and creating high-tech clusters. They have already spun out hundreds of companies creating thousands of jobs. We will support this model of knowledge clusters, especially outside the South East.
 
@@ -247,8 +224,7 @@ In this way we can start to create an economy based on mutual obligations, encou
 
 Our charities, mutuals, co-operatives and social enterprises are pioneering new models of production that enhance social value, promote financial inclusion, and give individuals and communities power and control. We will continue to support and help develop the social economy by improving access for co-operative and mutual organisations to growth finance through the new British Investment Bank. And we will consider how to support employee buy-outs when businesses are being sold.
 
-</span>
-<span class="page" id="page-23">
+<br class="page-break" />
 
 We will safeguard the public interest in the Royal Mail, supporting the creation of a staff-led trust for the employee share, and keeping the remaining 30 per cent in public ownership. We will also support the universal service obligation, ensuring competition does not undermine it and introducing protections as necessary.
 
@@ -264,8 +240,7 @@ Labour will establish a British Investment Bank with the mission to help busines
 
 We will increase competition on the high street. Following the Competition and Market Authorities inquiry we want a market share test and at least two new challenger banks. And we will deal with the scourge of household debt by introducing a new levy on payday lenders, using the funds raised to boost low-cost alternatives like credit unions.
 
-</span>
-<span class="page" id="page-24">
+<br class="page-break" />
 
 ### Better work and better pay
 
@@ -279,8 +254,7 @@ The Conservatives have introduced fees of up to £1,200 for employment tribunal 
 
 Labour is the Party of work, and we value working life. We will push up standards and boost productivity by implementing the commitments in Labour’s Workplace and Business manifestos.
 
-</span>
-<span class="page" id="page-25">
+<br class="page-break" />
 
 ### Supporting the next generation
 
@@ -298,8 +272,7 @@ We will give employers more control over apprenticeships funding and standards. 
 
 Labour’s apprenticeships will be gold-standard qualifications. We will re-focus existing spending away from low-level apprenticeships for older people, and towards a system where apprenticeships are focused on new job entrants, lasting at least two years, and providing level three qualifications or above.
 
-</span>
-<span class="page" id="page-26">
+<br class="page-break" />
 
 We will make sure that apprenticeships can lead to higher level qualifications by creating new Technical Degrees and supporting part-time study. They will be co-funded, co-designed and co-delivered by employers and they will be the priority for expansion within our university system.
 
@@ -313,8 +286,7 @@ Energy bills have risen by over £300 since 2010. Many businesses say energy is 
 
 Labour will freeze energy bills until 2017, ensuring that bills can fall but not rise, and we will give the regulator the power to cut bills this winter. During the freeze, we will reform the energy market so that it delivers fairer prices and a better deal for working families. The generation and supply businesses of the ‘Big Six’ energy companies will be separated. They will be required to open up their books, and they will have to sell their electricity through an open exchange. We will simplify energy tariffs and make it easier for people to compare prices to get the best deal. We will protect small businesses by ending unfair contracts and automatic rollovers to more expensive tariffs. A tough new energy watchdog will enforce our reforms, with powers to strip energy companies of their licences if they repeatedly harm the interests of consumers, and protect off-grid households.
 
-</span>
-<span class="page" id="page-27">
+<br class="page-break" />
 
 We will bring down energy bills by making homes more energy efficient, delivering a million interest free loans for energy home improvements in the next Parliament. For those on low incomes, we will make 200,000 homes warm every year, delivered street-by-street by local authorities and community organisations. Privately rented properties will have to meet a decency standard, bringing warmth to a further three million homes.
 
@@ -328,8 +300,7 @@ Rail fares will be frozen next year to help commuters while we implement reforms
 
 City and county regions will be given more power over the way buses are operated in their area. They will be able to decide routes, bear down on fares, drive improvements in services, and bring together trains, buses and trams into a single network with smart ticketing.
 
-</span>
-<span class="page" id="page-28">
+<br class="page-break" />
 
 ### Labour will:
 
@@ -355,22 +326,17 @@ freeze energy bills until 2017 and give the regulator the power to cut bills thi
 
 introduce a British Investment Bank and support a network of regional banks.
 
-</span>
-<span class="page" id="page-29">
+<br class="page-break" />
 
-</span>
-<span class="page" id="page-30">
+<br class="page-break" />
 
-</span>
-<span class="page" id="page-31">
+<br class="page-break" />
 
-</span>
-<span class="page" id="page-32">
+<br class="page-break" />
 
 ## We will provide world-class health and education services
 
-</span>
-<span class="page" id="page-33">
+<br class="page-break" />
 
 **Our NHS, care services, schools, colleges and other public services make up the essential fabric of our society. People need them to be able to live secure and fulfilling lives. Britain needs them if we are to succeed as a country. But under the Conservatives they are under threat. The next Labour Government will protect, improve and invest in our public services, while giving individuals and communities more control over their design and delivery.**
 
@@ -382,8 +348,7 @@ A good education is vital to achieving personal fulfillment and economic prosper
 
 Our public services are a measure of the strength and decency of our society. But we need a change in how we design them by pushing power down and organising them around individuals and families not centralised bureaucracies. Good public services also need committed staff who are treated fairly and whose ethos of service is respected. They require decisions on pay that prioritise those on lower incomes, which are evidence-based, and which respect Pay Review Body recommendations rather than brushing them aside irresponsibly.
 
-</span>
-<span class="page" id="page-34">
+<br class="page-break" />
 
 Government spends far too much money dealing with the symptoms of problems, instead of investing smaller amounts in dealing with their causes. Every taxpayer pays the cost of low educational achievement, poor aspirations, drink and drug misuse, and criminality. So we will promote early-years intervention, supporting young children and their parents and dealing with problems before they get out of hand.
 
@@ -399,8 +364,7 @@ We will start with the promise of investment so that the NHS has time to care. T
 
 We will guarantee people a GP appointment within 48 hours, and on the same day for those who need it. We will create a Cancer Treatments Fund so patients have access to the latest drugs, surgery and radiotherapy. By 2020, patients will wait no longer than one week for vital cancer tests. Catching the disease early is critical, so we will raise public awareness of symptoms and make sure there is training and support for GPs in spotting early signs.
 
-</span>
-<span class="page" id="page-35">
+<br class="page-break" />
 
 The answer to the health challenges we face is not to set hospital against hospital, but to join up services around patients’ needs. We will repeal the Government’s Health and Social Care Act, scrapping the competition regime and restoring proper democratic accountability for the NHS. We will establish a sensible commissioning framework, based on the principle of an NHS preferred provider, to stop the drive towards privatisation and make sure that NHS services are not destabilised by competition and fragmentation. Where private companies are involved in providing clinical services, we will impose a cap on any profits they can make from the NHS, to ensure that the needs of patients are always put first. We support the principles behind the negotiations on the Transatlantic Trade and Investment Partnership Treaty (TTIP). We will hold the European Commission to account on issues of concern, including the impact on public services and the Investor to State Dispute Settlement Mechanism. And we will ensure the NHS is protected from the TTIP treaty.
 
@@ -410,8 +374,7 @@ The current system is too fragmented. It was not designed for the growing number
 
 This will be underpinned by new rights for patients. Vulnerable older people, disabled people and those with complex needs will be helped to have more control of their lives with the entitlement to a personal care plan designed with them and shaped around their needs, the option of personal budgets where appropriate, and a single named person to coordinate their care. They will also receive better information and advice on managing their condition. These changes will help to end the frustration of families sick of being passed from pillar to post between different individuals and agencies.
 
-</span>
-<span class="page" id="page-36">
+<br class="page-break" />
 
 Commissioning and budgets will be brought together at a local level to join up services and make sure that providers are incentivised to help people stay healthy and outside hospital, rather than simply waiting for them to fall ill.
 
@@ -419,8 +382,7 @@ Mental health will be given the same priority as physical health. People will ha
 
 A greater emphasis on prevention and public health is essential, not just to improve outcomes and tackle inequalities, but to ensure the NHS remains sustainable. For example, 3.2 million people are currently diagnosed with diabetes, and it is estimated that spending on treatment will rise from £10 billion to £17 billion a year over the next 25 years if action is not taken, such as to reduce levels of obesity. We will set a new national ambition to improve the uptake of physical activity and take targeted action on those high strength, low cost alcohol products that fuel problem drinking. And we will set maximum permitted levels of sugar, salt and fat in foods marketed substantially to children.
 
-</span>
-<span class="page" id="page-37">
+<br class="page-break" />
 
 Everyone involved in the NHS must learn lessons when things go wrong, for example, from the failings at Mid-Staffordshire and Morecambe Bay. Labour will prioritise action to improve care quality and patient safety. In addition to recruiting extra nurses to help provide safe levels of staffing on wards, we want every hospital death to be subject to an appropriate level of review. We will also take action to modernise the regulation of healthcare professionals.
 
@@ -436,8 +398,7 @@ For older people, the normal setting for care should increasingly be the home, n
 
 We will also introduce a system of safety checks to identify risks facing vulnerable older people and enable preventative measures to be put in place, such as grab rails to prevent falling.
 
-</span>
-<span class="page" id="page-38">
+<br class="page-break" />
 
 The burden of the care crisis is falling on carers, especially women, who account for six in every ten carers. Labour will introduce a new duty on NHS organisations to identify carers so that they can be linked up with the right support. We will ring-fence the money councils get for carers’ breaks to ensure this money gets spent on carers.
 
@@ -451,8 +412,7 @@ We will transform high performing Further Education colleges with strong links t
 
 We believe fundamentally that a world-class education system is made by excellent teachers. With Labour, every teacher will need to gain qualified teacher status. We will encourage teaching quality by creating new career routes for teachers who are expert in their subject. These teachers will be able to attain a new ‘Master Teacher’ status. Teachers will also be expected to update their knowledge and skills as a condition of remaining in the profession, and we will support plans for a new College of Teaching. These measures will help us close the attainment gap between disadvantaged children and their peers, and work towards all children reading well by age 11. We have supported the successful ‘Teach First’ since its inception and will continue to do so.
 
-</span>
-<span class="page" id="page-39">
+<br class="page-break" />
 
 A new School Leadership Institute will support headteachers and improve school leadership. It will accredit gold-standard headship qualifications, support leadership training and development, and identify and develop the school leaders of the future.
 
@@ -466,13 +426,11 @@ We will end the wasteful and poorly performing Free Schools programme, and switc
 
 Private schools currently benefit from generous state subsidies, including business rates relief worth hundreds of millions of pounds. We believe they should do more to contribute to raising standards in state education to justify receiving this subsidy. As a condition for continued business rate relief, private schools will be required to form a meaningful partnership with a school, or cluster of schools, in the state sector.
 
-</span>
-<span class="page" id="page-40">
+<br class="page-break" />
 
 Children develop and learn best when they are secure and happy. We need to help our children develop the creativity, self-awareness and emotional skills they need to get on in life. We will introduce compulsory age-appropriate sex and relationships education. We will encourage all schools to embed character education across the curriculum, working with schools to stop the blight of homophobic bullying.
 
-</span>
-<span class="page" id="page-41">
+<br class="page-break" />
 
 ### Labour will:
 
@@ -500,19 +458,15 @@ cap class sizes for five, six and seven-year-olds
 
 ensure all young people study English and Maths to age 18.
 
-</span>
-<span class="page" id="page-42">
+<br class="page-break" />
 
-</span>
-<span class="page" id="page-43">
+<br class="page-break" />
 
-</span>
-<span class="page" id="page-44">
+<br class="page-break" />
 
 ## We will help our families and communities to thrive
 
-</span>
-<span class="page" id="page-45">
+<br class="page-break" />
 
 **As a country we value compassion, tolerance and a sense of decency. But pressures on family life, growing inequality, anxieties about crime and anti-social behaviour, and a widespread loss of trust in our governing institutions, are creating insecurity in many communities.**
 
@@ -526,8 +480,7 @@ We will help families by expanding free childcare from 15 to 25 hours per week f
 
 Labour recognises the vital importance of the power of people’s relationships to build the capacity for love, care and resilience. We will prioritise early years intervention to give children and parents the best start in family life, and restore the role of Sure Start centres as family hubs. Sure Start will have an obligation to provide families with access to childcare, opening their facilities to charities and local childcare providers. More widely, we will encourage local services to co-locate, so that they work together to shift from sticking plaster solutions to integrated early help.
 
-</span>
-<span class="page" id="page-46">
+<br class="page-break" />
 
 We will take a whole-family approach to policy making, supporting relationships, and the involvement of fathers, grandparents and relatives in the care, education and health of children.
 
@@ -543,8 +496,7 @@ Britain is in the midst of the biggest housing crisis in a generation, with the 
 
 Everyone should be able to live in a secure home, whether they rent or buy. We will make sure that at least 200,000 homes a year get built by 2020 – almost double the current level – by implementing the recommendations of the Lyons Review. It is only by building more homes that people’s aspiration for home ownership will be fulfilled.
 
-</span>
-<span class="page" id="page-47">
+<br class="page-break" />
 
 Our comprehensive plan to tackle the housing crisis will give local communities new powers to provide the homes they need, in the places they want to live. To help young people and families get on the housing ladder, we will give local authorities the power to give first call to first time buyers on new homes in areas of housing growth. And we will unlock a Future Homes Fund by requiring that the billions of pounds saved in Help to Buy ISAs be invested in increasing housing supply.
 
@@ -556,8 +508,7 @@ For the 11 million people who rent privately, we will legislate to make three-ye
 
 Homelessness is the ultimate symbol of the housing crisis. Labour reduced homelessness by 70 per cent when we were last in office, but all forms of homelessness are back on the rise, with rough sleeping having increased by 55 per cent. We are committed to reversing this trend by tackling the causes of homelessness and rough sleeping.
 
-</span>
-<span class="page" id="page-48">
+<br class="page-break" />
 
 ### Restoring social security
 
@@ -571,8 +522,7 @@ We will keep the household benefit cap and ask the Social Security Advisory Comm
 
 Labour believes in rewarding work and in restoring contribution to the heart of our system. So we will not cut tax credits. We want everyone who can to have the chance to contribute through paid work, so we will create a more tailored back-to-work system that helps people secure and keep jobs. We will do more to help unemployed people get the skills they need for work, testing jobseekers’ Maths, English and IT skills within six weeks of them claiming benefits. They will be required to take up training where this will improve their chances of getting a job. We support the principle behind Universal Credit – that there should be a smooth transition into work – but it must be affordable and fit for purpose, so we will pause and review the programme.
 
-</span>
-<span class="page" id="page-49">
+<br class="page-break" />
 
 There will be a guaranteed, paid job for all young people who have been out of work for one year, and for all those over 25 years old and out of work for two years. It will be a job that they have to take, or lose their benefits. And we will commission a replacement for the Work Programme at a more local level, working with local authorities to join up support for the long-term unemployed. We will introduce a higher rate of Job Seekers Allowance for those who have contributed over years. It will be funded by extending the length of time people need to have worked to qualify.
 
@@ -588,8 +538,7 @@ We will reform the Work Capability Assessment and focus it on the support disabl
 
 Older people deserve to live a fulfilling life, to continue working if they wish, and to enjoy a secure retirement. Older people have contributed all their lives and built the Britain that the next generation will inherit. So it is right that they are supported with a fair and sustainable pensions system, responsive health services and a system of care over which they have control. We will keep the triple-lock so that the state pension increases by inflation, earnings, or 2.5 per cent, whichever is highest. And while increases in the state retirement age are necessary to keep our pensions system affordable, we will ensure that people have time to plan for changes.
 
-</span>
-<span class="page" id="page-50">
+<br class="page-break" />
 
 We have taken the tough choice to restrict Winter Fuel Payments for the richest five per cent of pensioners, but we will guarantee that there will be no additional changes to the Winter Fuel Payments, free TV licences or bus passes for pensioners.
 
@@ -605,8 +554,7 @@ Despite the Conservatives’ promise to reduce net migration to tens of thousand
 
 Labour will never cut Britain off from the rest of the world. Our economy and our society benefit from the talent and investment of people who come here, including university students coming to study. But the system needs to be controlled and managed so that it is fair. Low-skilled migration has been too high and needs to come down. We need much stronger action to stop illegal immigration.
 
-</span>
-<span class="page" id="page-51">
+<br class="page-break" />
 
 Labour’s plan starts with stronger borders. We will recruit an additional 1,000 borders staff, paid for by a small charge on non-visa visitors to the UK. We will introduce stronger controls to prevent those who have committed serious crimes coming to Britain, and to deport those who commit crimes while they are here. We will introduce full exit checks, so that we can count people in and out of the country. Short-term student visitor visas have dramatically increased, so we will tighten the system to prevent abuse, whilst welcoming overseas university students who bring billions into Britain. And we will keep the cap on workers from outside the EU.
 
@@ -616,8 +564,7 @@ We need to strengthen our social integration and ensure that migrants can play t
 
 We will enforce immigration rules humanely and effectively. We will end the indefinite detention of people in the asylum and immigration system, ending detention for pregnant women and those who have been the victims of sexual abuse or trafficking. And we will ensure Britain continues its proud history of providing refuge for those fleeing persecution by upholding our international obligations, including working with the UN to support vulnerable refugees from Syria.
 
-</span>
-<span class="page" id="page-52">
+<br class="page-break" />
 
 ### Safer communities
 
@@ -633,8 +580,7 @@ We will strengthen community safety partnerships to give local people a role in 
 
 To raise standards within policing, all police officers will be required to become Chartered Officers, holding a registration with the College of Policing, and able to be struck off for serious misconduct, just as doctors and lawyers can be. A new Police Standards Authority will replace the discredited Independent Police Complaints Commission. And we will work with the police to improve ethnic minority recruitment so that the police better reflect the communities they serve.
 
-</span>
-<span class="page" id="page-53">
+<br class="page-break" />
 
 The next part of Labour’s plan is preventing crime occurring in the first place. We will nip anti-social behaviour in the bud by making offenders put right the wrong they have done, with payback orders replacing low-level cautions. And we will ensure staff who work with the public are given greater protection, with tougher penalties for those who assault them.
 
@@ -646,8 +592,7 @@ It is clear that we need a radical change in our approach to dealing with child 
 
 We need prisons that both punish and rehabilitate people. Labour will do more to increase the amount of time prisoners spend working and learning. Prisons will be measured by how successful they are in reforming prisoners and reducing their re-offending. We will also raise professional standards amongst prison officers, including through the creation of Chartered Prison Officers, and confront the neglected problem of staff corruption.
 
-</span>
-<span class="page" id="page-54">
+<br class="page-break" />
 
 We will enact Britain’s first Victims’ Law to give victims of crime a voice and an entitlement to minimum standards of service from criminal justice agencies.
 
@@ -669,8 +614,7 @@ The British people have faced down terrorist threats before and will do so again
 
 With Labour, the security services will have the powers they need to disrupt and tackle terrorism. The Government were wrong to weaken counter terror powers by scrapping Control Orders. With Labour, dangerous suspects will be subject to proper controls.
 
-</span>
-<span class="page" id="page-55">
+<br class="page-break" />
 
 Every government department will be engaged in the work of preventing extremism and fighting terrorism. We will implement a much more rigorous strategy for dealing with people returning from the Syrian conflict. Alongside appropriate police action and prosecution, it will be mandatory for anyone returning to engage in a de-radicalisation programme designed to confront them with the consequences of their actions.
 
@@ -686,8 +630,7 @@ We will take a zero-tolerance approach to hate crime, such as anti-Semitism and 
 
 Labour believes that art and culture gives form to our hopes and aspirations and defines our heritage as a nation. The arts allow us to celebrate our common humanity in the creation and celebration of beauty. The arts should belong to all and be open to all to take part in.
 
-</span>
-<span class="page" id="page-56">
+<br class="page-break" />
 
 We will guarantee a universal entitlement to a creative education so that every young person has access to cultural activity and the arts by strengthening creative education in schools and after-school clubs. Institutions that receive arts funding will be required to open up their doors to young people, and we will work with public bodies to rebalance arts funding across the country.
 
@@ -703,8 +646,7 @@ Sport brings us together in an expression of our local and national pride. It is
 
 Football clubs are an important part of many people’s identity and sense of belonging. They are more than just businesses. But despite their importance in the lives of their members and supporters, too often there are no effective means for fans to have a say in how their clubs are run. Labour will provide the means for supporters to be a genuine part of their clubs. We will introduce legislation to enable accredited supporters trusts to appoint and remove at least two of the directors of a football club and to purchase shares when the club changes hands. We will also review the role of fan participation in other sports.
 
-</span>
-<span class="page" id="page-57">
+<br class="page-break" />
 
 We will ensure the Premier League delivers on its promise to invest five per cent of its domestic and international television rights income into funding the grassroots.
 
@@ -716,15 +658,13 @@ As we set out in more detail later on, a Labour Government will play a leading g
 
 Labour has always believed that everyone should have access to nature, whoever they are, or wherever they live. So we will keep our forests in public ownership, and promote access to green spaces in local planning. We will support the work of the Natural Capital Committee to protect and improve wildlife habitats and green spaces, and make them an important part of our thriving tourism industry.
 
-</span>
-<span class="page" id="page-58">
+<br class="page-break" />
 
 We will build on our strong record on animal welfare – starting with an end to the Government’s ineffective and cruel badger cull. We will improve the protection of dogs and cats, ban wild animals in circuses, defend the hunting ban and deal with wildlife crime associated with shooting.
 
 We want to create a world-leading Food, Farm and Fisheries sector that creates better paid jobs and apprenticeships across the rural economy. We will put in place a long-term strategy for the sector, promote the best of British produce, and expand the role of the supermarket watchdog to support the growth of the sector, and protect food producers from unfair practices by the major supermarkets.
 
-</span>
-<span class="page" id="page-59">
+<br class="page-break" />
 
 ### Labour will:
 
@@ -748,19 +688,15 @@ protect neighbourhood policing by safeguarding over 10,000 frontline police offi
 
 give football fans a voice in club boardrooms.
 
-</span>
-<span class="page" id="page-60">
+<br class="page-break" />
 
-</span>
-<span class="page" id="page-61">
+<br class="page-break" />
 
-</span>
-<span class="page" id="page-62">
+<br class="page-break" />
 
 ## We will reform government to give more power to people
 
-</span>
-<span class="page" id="page-63">
+<br class="page-break" />
 
 **People who live in this country know that too much power is concentrated in too few hands. Those who make decisions on behalf of others, whether they are in Westminster, the European Union, in business, the media, or the public sector, are too often unaccountable. Our over-centralised system of government has prevented our nations, cities, county regions and towns from being able to take control and change things for themselves. We will end a century of centralisation.**
 
@@ -774,8 +710,7 @@ These measures are the start of big changes in how we govern ourselves as a unio
 
 We will further develop digital government to enable better communication, more collaboration, and sharing of data between services. It will make services and transactions more efficient and simpler for people to use. To create a more connected society we will support making digital government more inclusive, transparent and accountable. We will continue to back the principle of ‘open data by default’, releasing public sector performance data wherever possible.
 
-</span>
-<span class="page" id="page-64">
+<br class="page-break" />
 
 ### A better politics
 
@@ -789,8 +724,7 @@ We will safeguard our democracy by repealing the Lobbying Act, which has gagged 
 
 Labour believes in the historic union of our nations working together for the common good. But as devolution has continued to gather pace, our union now needs to evolve. As a priority, we will set up a people-led Constitutional Convention to directly address this and to drive political reform of Westminster.
 
-</span>
-<span class="page" id="page-65">
+<br class="page-break" />
 
 Labour is committed to replacing the House of Lords with an elected Senate of the Nations and Regions, to represent every part of the United Kingdom, and to improve the democratic legitimacy of the second chamber. It is also time to consider how English MPs can have a greater role in the scrutiny of legislation that only affects England. This includes the option put forward by Sir William McKay, of a committee stage made up of English-only MPs. These ideas must now be considered as part of the Constitutional Convention process.
 
@@ -806,8 +740,7 @@ Devolution does not end at town halls. Local people know best about the complex 
 
 The English New Deal begins the process of giving individuals and communities more power and control over how they are governed and over the design of their public services. It will support people who need care to live independently, help troubled families to turn their lives around, and make sure that every child has a good start in life with early-years intervention and quality childcare.
 
-</span>
-<span class="page" id="page-66">
+<br class="page-break" />
 
 We will give English people a stronger voice in shaping the future of their local NHS services. Patients and the public will have a seat at the table from the very start of any process that draws up plans for change, including changes to hospital services.
 
@@ -819,8 +752,7 @@ In September 2014, people across Scotland voted overwhelmingly for change. Labou
 
 The new devolution settlement will recognise the strength and security offered by being part of the United Kingdom. We will maintain the Barnett formula, and Scotland will continue to benefit from pooling and sharing resources across the UK.
 
-</span>
-<span class="page" id="page-67">
+<br class="page-break" />
 
 ### Wales
 
@@ -836,8 +768,7 @@ Labour is proud of the role we played in bringing peace and stability to Norther
 
 The Labour Party has always led on challenging prejudice and discrimination and we will continue to do so. People's differences are not excuses to treat them badly or unjustly.
 
-</span>
-<span class="page" id="page-68">
+<br class="page-break" />
 
 The next Labour Government will go further in reducing discrimination against women, requiring large companies to publish their gender pay gap and strengthening the law against maternity discrimination. Where there is evidence more progress is needed, we will enforce the relevant provisions within the Equality Act.
 
@@ -851,8 +782,7 @@ Britain has a long tradition of liberty and the rule of law, and Labour has a pr
 
 Thanks to the Human Rights Act, some of our most vulnerable citizens, including disabled people and victims of crime, have been given a powerful means of redress. The Conservatives want to leave the European Convention of Human Rights, and abolish the Human Rights Act. A Labour Government will stand up for citizens’ individual rights, protecting the Human Rights Act and reforming, rather than walking away from, the European Court of Human Rights. And we will make sure that access to legal representation, a cornerstone of our democracy, is not determined by personal wealth, but remains available to those that need it.
 
-</span>
-<span class="page" id="page-69">
+<br class="page-break" />
 
 Our Freedom of Information laws have shone a light into the darker corners of government and are a crucial check on the power of the Executive. We will extend their scope so that public services run by large private companies are included. And we will repair the damage done by this Government to the vital safeguard offered by judicial review.
 
@@ -866,8 +796,7 @@ We remain strongly committed to the implementation of the recommendations of the
 
 Our system of public service broadcasting is one of Britain’s great strengths. The BBC makes a vital contribution to the richness of our cultural life, and we will ensure that it continues to do so while delivering value for money. We will also commit to keeping Channel 4 in public ownership, so it continues to produce vital public content.
 
-</span>
-<span class="page" id="page-70">
+<br class="page-break" />
 
 ### Labour will:
 
@@ -891,22 +820,17 @@ require large companies to publish their gender pay gap
 
 implement the recommendations of the Leveson Inquiry.
 
-</span>
-<span class="page" id="page-71">
+<br class="page-break" />
 
-</span>
-<span class="page" id="page-72">
+<br class="page-break" />
 
-</span>
-<span class="page" id="page-73">
+<br class="page-break" />
 
-</span>
-<span class="page" id="page-74">
+<br class="page-break" />
 
 ## We will stand up for Britain’s interests in Europe and the world
 
-</span>
-<span class="page" id="page-75">
+<br class="page-break" />
 
 **We live in turbulent times. The rise of ISIL, an aggressive Russia threatening its neighbours in eastern Europe, and continuing economic uncertainty in the Eurozone, are each a challenge to our national security. Labour is an internationalist party and believes Britain must engage with the global challenges we face, but not try and solve them on our own. We believe the Conservatives are damaging the interests of our country by turning their backs on Europe, and isolating us abroad. We will strengthen our national security, stand up for human rights, and work with other countries to tackle terrorism, climate change, and eliminate extreme poverty globally.**
 
@@ -920,8 +844,7 @@ One of our first acts in government will be to conduct a wide-ranging review of 
 
 We will take a multilateral approach to global challenges. We will continue to uphold our key alliances. These include the United States, our allies in Africa and Latin America, and our partners from across the Commonwealth. They also include the European Union. The crisis in Ukraine over the past year has demonstrated the importance of NATO and the EU standing up to external threats in Europe’s eastern, and southern neighbourhoods. Labour will continue to advocate an EU which looks outward to promote stability, peace and prosperity on its borders.
 
-</span>
-<span class="page" id="page-76">
+<br class="page-break" />
 
 Most immediately we will work with our allies to counter and confront terrorism. ISIL’s barbarism and expansionist ideology, alongside terrorist groups such as Al Qaeda and Al-Shabaab, represent a particular threat to global security. Following a request from the Iraqi Prime Minister, it was right that the UK joined other nations in air strikes against ISIL targets in Iraq. But military action alone will not defeat ISIL. A long-term multinational political strategy, with regional actors playing a central role, is essential for tackling the rise of extremism across the region.
 
@@ -931,8 +854,7 @@ Peace and security in the Middle East are one of Labour’s most important forei
 
 Labour will also continue to honour the UK’s commitment to support Afghanistan as it seeks to secure an inclusive and durable political settlement. In December 2014, the NATO-led ISAF mission in Afghanistan ended. We can never repay the debt owed to the brave servicemen and women who have sacrificed and risked their lives in Afghanistan to protect our national security.
 
-</span>
-<span class="page" id="page-77">
+<br class="page-break" />
 
 As power and wealth continues to shift from West to East, our relationship with Asia will be fundamental to our long-term prosperity. Labour will set up an Asia Step-Change Taskforce to ensure a more strategic and effective dialogue with regional partners, including China, both in the commerical realm, and in other areas, from cultural exchange to human rights.
 
@@ -944,8 +866,7 @@ Labour believes that our membership of the European Union is central to our pros
 
 The economic case for membership of the EU is overwhelming. Over 3 million jobs in the UK are linked to trade with the European Union, and almost half of our trade and foreign investment comes from the EU. Competing in the single market, with the best companies in the world, drives competitiveness and innovation for firms in all parts of our economy. And it helps boost the living standards of people across Britain, encouraging the inflow of capital and investment.
 
-</span>
-<span class="page" id="page-78">
+<br class="page-break" />
 
 Our reforms will help deliver a Europe focused on jobs and growth, not simply more austerity and rising unemployment. Labour will focus on the completion of the single market and tougher budget discipline, including on those items where spending at the EU level can save money at the national level. That means driving reform of the Common Agricultural Policy and a Commission-led zero-based review of spending on EU agencies to reduce waste and inefficiency. We will not join the Euro, and we will ensure EU rules protect the interests of non-Euro members.
 
@@ -961,8 +882,7 @@ Labour’s priority in government will be protecting the NHS and tackling the co
 
 The primary duty of any government is the defence of the nation and its interests. That is why Labour is committed to ensuring the UK has responsive, high-tech Armed Forces, with the capability to respond to emerging, interconnected threats, in an unpredictable security landscape. We will conduct a Strategic Defence and Security Review in the first year of government, with an inclusive national debate on the security and defence challenges facing the country. It will be fiscally responsible and strategically driven, focusing on the obstacles that impede our Armed Forces from effective response to threats.
 
-</span>
-<span class="page" id="page-79">
+<br class="page-break" />
 
 At the heart of our defence policy are the service men and women, both regulars and reservists, who risk their lives for their country. Labour will strengthen the covenant between our nation and our Armed Forces, veterans and their families. We will create a Veterans’ Register to make certain our veterans receive proper support on leaving service.
 
@@ -974,8 +894,7 @@ Britain needs to be prepared to counter the threat of cyber-attacks. We have alr
 
 Labour remains committed to a minimum, credible, independent nuclear capability, delivered through a Continuous At-Sea Deterrent. We will actively work to increase momentum on global multilateral disarmament efforts and negotiations, and look at further reductions in global stockpiles and the numbers of weapons.
 
-</span>
-<span class="page" id="page-80">
+<br class="page-break" />
 
 ### Climate change
 
@@ -987,8 +906,7 @@ The effects of climate change hit the poor, the hardest. If we do not tackle cli
 
 We want an ambitious agreement on climate change at the UNFCCC conference in Paris, in December. We will make the case for ambitious emissions targets for all countries, strengthened every five years on the basis of a scientific assessment of the progress towards the below two degree goal. And we will push for a goal of net zero global emissions in the second half of this century, for transparent and universal rules for measuring, verifying and reporting emissions, and for an equitable deal in which richer countries provide support to poorer nations in combatting climate change.
 
-</span>
-<span class="page" id="page-81">
+<br class="page-break" />
 
 ### International development
 
@@ -998,8 +916,7 @@ While progress has been made towards the Millennium Development Goals, it is una
 
 The private sector is essential to long-term development, and is often a positive force for change. We will extend the sharing of tax information to developing countries, increase DFID’s help to governments to collect more of their own taxes, tackle corruption, and ensure good governance. We will work with companies to ensure they have sustainable supply chains that are free from slavery, treat their workers fairly, and pay taxes where they are due.
 
-</span>
-<span class="page" id="page-82">
+<br class="page-break" />
 
 ### Labour will:
 
@@ -1021,11 +938,9 @@ establish a Centre for Universal Health Coverage
 
 push for an ambitious target in Paris to get to goal of net zero global emissions in the second half of this century.
 
-</span>
-<span class="page" id="page-83">
+<br class="page-break" />
 
-</span>
-<span class="page" id="page-84">
+<br class="page-break" />
 
 ## Time for change
 
@@ -1045,10 +960,6 @@ We deserve a country where everyone plays by the same rules, including those at 
 
 **That's what this manifesto offers. It is the kind of country we know we have it in ourselves to be. Let's build it together.**
 
-</span>
-<span class="page" id="page-85">
+<br class="page-break" />
 
-</span>
-<span class="page" id="page-86">
-
-</span>
+<br class="page-break" />
