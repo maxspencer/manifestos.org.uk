@@ -110,10 +110,14 @@ def output_manifesto_page(election, manifesto):
             md = f.read()
             md_pages = md.split(u'<br class="page-break" />')
             md_html = u''
-            page_fmt = u'<div class="page" id="page-{}">\n{}\n</div>'
+            page_fmt = u'<div class="{}" id="page-{}">\n{}\n</div>'
             i = 1
             for md_page in md_pages:
-                md_html += page_fmt.format(i, markdown.markdown(md_page))
+                html = markdown.markdown(md_page)
+                css_classes = "page"
+                if not html:
+                    css_classes += " empty-page"
+                md_html += page_fmt.format(css_classes, i, html)
                 i += 1
     except KeyError:
         md_html="none"

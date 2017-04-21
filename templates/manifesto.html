@@ -13,21 +13,20 @@
 
 {% block main %}
 
+<div class="cover-page">
+  <img width=400 src="images/{{election.id}}-{{manifesto.id}}-manifesto-page-1.png"/>
+</div>
+
+<p>
+  <a href="text.html">Read the full text</a><br />
+  <a href="pages.html">See all pages</a>
+</p>
+
 <p>
   Source: <a href="{{ manifesto.source }}">{{ manifesto.source }}</a>
   (<a href="{{election.id}}-{{manifesto.id}}-manifesto.pdf">mirror</a>)
 </p>
 
-{% if False %}
-{% for i in range(page_count) %}
-<p class="page">
-  <img src="images/{{election.id}}-{{manifesto.id}}-manifesto-page-{{i+1}}.png"/>
-</p>
-{% endfor %}
-{% endif %}
 
-<div>
-  {{ md_html }}
-</div>
   
 {% endblock main %}

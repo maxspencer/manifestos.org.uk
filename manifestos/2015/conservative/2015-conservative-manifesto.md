@@ -1,14 +1,10 @@
-<span class="page" id="page-1">
-
 # THE CONSERVATIVE PARTY MANIFESTO 2015
 
 **STRONG LEADERSHIP - A CLEAR ECONOMIC PLAN - A BRIGHTER, MORE SECURE FUTURE**
 
-</span>
-<span class="page" id="page-2">
+<br class="page-break" />
 
-</span>
-<span class="page" id="page-3">
+<br class="page-break" />
 
 ## Contents
 
@@ -52,11 +48,9 @@ FOREWORD by David Cameron – Leader of the Conservative Party...5
 
 8. CONCLUSION...81 
 
-</span>
-<span class="page" id="page-4">
+<br class="page-break" />
 
-</span>
-<span class="page" id="page-5">
+<br class="page-break" />
 
 ## We have a plan for every stage of your life:
 
@@ -86,11 +80,9 @@ we will continue to increase the Basic State Pension by at least 2.5 per cent th
 
 **The next Conservative Government will secure a better future for you, your family and Britain.**
 
-</span>
-<span class="page" id="page-6">
+<br class="page-break" />
 
-</span>
-<span class="page" id="page-7">
+<br class="page-break" />
 
 ## Foreword
 
@@ -118,11 +110,9 @@ Now is a time to build on the progress we have made, not to put it all at risk. 
 
 I hope you will give it your support, so that together, we can see through the task we have begun.
 
-</span>
-<span class="page" id="page-8">
+<br class="page-break" />
 
-</span>
-<span class="page" id="page-9">
+<br class="page-break" />
 
 ## A strong economy to help you and your family
 
@@ -152,8 +142,7 @@ The Great Recession has given way to a Great Revival, which is creating on avera
 
 But the job is not finished. There are clouds on the international horizon. Huge challenges remain at home. We have cut the record deficit we inherited to five per cent of GDP, but that is still too high. Our trade with emerging economies is up, with exports to China more than doubled since 2009, but overall we are still too dependent on slow-growing European markets. Business investment is rising, but we still underinvest compared to other countries. Productivity remains too low. And while prosperity is now spreading around the country, our economic growth remains uneven, too reliant on financial services.
 
-</span>
-<span class="page" id="page-10">
+<br class="page-break" />
 
 **1,000 jobs created for every day of the Parliament since 2010**
 
@@ -179,8 +168,7 @@ Our deficit reduction plan has two phases. The first will see us continue to red
 
 That will require a further £30 billion in fiscal consolidation over the next two years, on top of the £120 billion that we have already identified and delivered over this Parliament. We will find £13 billion from departmental savings, the same rate of reduction as in this Parliament. We will find £12 billion from welfare savings, on top of the £21 billion of savings delivered in this Parliament. And we will raise at least £5 billion from continuing to tackle tax evasion, and aggressive tax avoidance and tax planning, building on the £7 billion of annual savings we have delivered in this Parliament. This £30 billion of further consolidation is necessary to ensure that debt keeps falling as a share of GDP and to deliver a balanced structural current budget in 2017-18, meeting the new fiscal mandate that Parliament voted on earlier this year.
 
-</span>
-<span class="page" id="page-11">
+<br class="page-break" />
 
 Our commitment goes further than this. A balanced current budget is not enough to deliver a reliable reduction in our level of national debt, which remains far too high in a world of continuing economic challenges. International evidence and Treasury analysis shows that the only way to keep our economy secure for the future is to eliminate the deficit entirely and start running a surplus. Anything less would be to ignore the lessons of the past.
 
@@ -198,11 +186,9 @@ Our approach is focused on reducing wasteful spending, making savings in welfare
 
 We will make sure our financial services industry is the best regulated in the world with our new system of supervision led by the independent Bank of England. Our new Financial Policy Committee will monitor and control the growth of indebtedness and imbalances across the whole economy – a vital task that was totally ignored in the run up to the financial crisis. Our tough new Financial Conduct Authority will protect consumers and ensure that financial markets work for the benefit of the whole economy. To protect hardworking taxpayers from future banking crashes, we will finish the process of ring- fencing banks’ high street branches from their investment arms by 2019 at the latest. In order to ensure that new pay structures for bankers rebuild trust and reduce short- termism, we will ensure that Britain continues to have the toughest regime of bonus deferral and clawback of any financial centre. We will continue to sell the Government’s stakes in the bailed-out banks and building societies in order to deliver value for money for taxpayers and support the economy. Hardworking taxpayers supported the banks during the financial crisis and so the banks should in turn support them during the recovery – that is why we will keep the bank levy in place and restrict established banks’ ability to pay less tax by offsetting their profits against past losses.
 
-</span>
-<span class="page" id="page-12">
+<br class="page-break" />
 
-</span>
-<span class="page" id="page-13">
+<br class="page-break" />
 
 #### We will make the banks work for you
 
@@ -226,11 +212,9 @@ To help attract growth and new businesses we will improve connections to the Sou
 
 **Britain's exports are growing fastest in the North East and our employment fastest in the North West**
 
-</span>
-<span class="page" id="page-14">
+<br class="page-break" />
 
-</span>
-<span class="page" id="page-15">
+<br class="page-break" />
 
 #### We will make the Midlands an engine of growth
 
@@ -246,8 +230,7 @@ We will improve rail connections to East Anglia, delivering ‘Norwich in 90 min
 
 We will devolve far-reaching powers over economic development, transport and social care to large cities which choose to have elected mayors. We will legislate to deliver the historic deal for Greater Manchester, which will devolve powers and budgets and lead to the creation of a directly elected Mayor for Greater Manchester. In Cambridgeshire, Greater Manchester and Cheshire East, we will pilot allowing local councils to retain 100 per cent of growth in business rates, so they reap the benefit of decisions that boost growth locally. We will devolve further powers over skills spending and planning to the Mayor of London. And we will deliver more bespoke Growth Deals with local councils, where locally supported, and back Local Enterprise Partnerships to promote jobs and growth.
 
-</span>
-<span class="page" id="page-16">
+<br class="page-break" />
 
 ## Better roads, trains and modern communications
 
@@ -285,8 +268,7 @@ Overall public investment will be higher on average over this decade, as a perce
 
 We will invest £38 billion in our railway network in the five years to 2019. Electrification of the railways is a key part of our investment programme, with work already underway across the North, the Midlands, and South Wales; there are plans to go further in the rest of the country, including East Anglia and the South West. In addition to rolling out our national high-speed rail network, with High Speed 2 and High Speed 3, we will complete the construction of the new east-west Crossrail across Greater London, and push forward with plans for Crossrail 2, a new rail route running through London and connecting Surrey and Hertfordshire. We will support a fairer deal for taxpayers and commuters: we will keep commuter rail fares frozen in real terms for the whole of the next Parliament – regulated fares will only be able to rise by Retail Price Inflation, and train operating companies will not have any flexibility to raise ticket prices above this. We will also introduce smart ticketing and part- time season tickets and require train companies to improve compensation arrangements for passengers when trains are more than a few minutes late. We are investing millions of pounds in fitting out trains with new wi-fi equipment and improving mobile phone signals, which will benefit passengers on trains across England and Wales.
 
-</span>
-<span class="page" id="page-17">
+<br class="page-break" />
 
 #### We will support motorists and invest in our roads, to save you time and money
 
@@ -306,11 +288,9 @@ We will secure the delivery of superfast broadband in urban and rural areas to p
 
 We will hold the mobile operators to their new legally binding agreement to ensure that 90 per cent of the UK landmass will have voice and SMS coverage by 2017. We will continue to invest in mobile infrastructure to deliver coverage for voice calls and text messages for the final 0.3 – 0.4 per cent of UK premises that do not currently have it. We will ensure that Britain seizes the chance to be a world leader in the development of 5G, playing a key role in defining industry standards.
 
-</span>
-<span class="page" id="page-18">
+<br class="page-break" />
 
-</span>
-<span class="page" id="page-19">
+<br class="page-break" />
 
 ## Jobs for all
 
@@ -340,8 +320,7 @@ To achieve this, we will back British businesses: cutting red tape, lowering tax
 
 Backing business also means helping our farmers and our rural communities. Neglected for 13 years under Labour, we have started the process of championing and connecting up the countryside. In the coming years, we will go further, helping our farmers, supporting British food around the world and opening up new export markets.
 
-</span>
-<span class="page" id="page-20">
+<br class="page-break" />
 
 This is all at risk if the Labour Party forms the government. Their policies to spend more, borrow more and tax more would be catastrophic for Britain’s businesses – and for all the families thrown back into the despair of joblessness and financial uncertainty.
 
@@ -367,8 +346,7 @@ To support jobs, we cut Corporation Tax from 28 to 20 per cent over the course o
 
 Strikes should only ever be the result of a clear, positive decision based on a ballot in which at least half the workforce has voted. This turnout threshold will be an important and fair step to rebalance the interests of employers, employees, the public and the rights of trade unions. We will, in addition, tackle the disproportionate impact of strikes in essential public services by introducing a tougher threshold in health, education, fire and transport. Industrial action in these essential services would require the support of at least 40 per cent of all those entitled to take part in strike ballots – as well as a majority of
 
-</span>
-<span class="page" id="page-21">
+<br class="page-break" />
 
 Britain has the most competitive business tax regime in the G20 – and we want to keep it that way
 
@@ -394,11 +372,9 @@ accounted for only one in eight FTSE 100 board members. They represent a quarter
 
 Now that the economy is growing strongly again, we have seen the first real-terms increase in the National Minimum Wage since Labour’s Great Recession began. We strongly support the National Minimum Wage and want to see further real-terms increases in the next Parliament. We accept the recommendations of the Low Pay Commission that the National Minimum Wage should rise to £6.70 this autumn, on course for a Minimum Wage that will be over £8 by the end of the decade. We also support the Living Wage and will continue to encourage businesses and other organisations to pay it whenever they can afford it. We will also take further steps to eradicate abuses of workers, such as non-payment of the Minimum Wage, exclusivity in zero- hours contracts and exploitation of migrant workers.
 
-</span>
-<span class="page" id="page-22">
+<br class="page-break" />
 
-</span>
-<span class="page" id="page-23">
+<br class="page-break" />
 
 We will continue to invest in science, back our industrial strategies and make Britain the technology centre of Europe
 
@@ -416,11 +392,9 @@ We have the land, the technology, and the entrepreneurial flair to enable us to 
 
 We will set out a long-term vision for the future of British farming, working with industry to develop a 25 year plan to grow more, buy more and sell more British food. We will allow farmers to smooth their profits for tax purposes over five years, up from the current two years, to counter income volatility. We will treble the number of apprenticeships in food, farming and agri-tech, as part of our plan to secure three million more apprenticeships. We will support a science-led approach on GM crops and pesticides and implement our 25-year strategy to eradicate bovine TB. We will liberate farmers from red tape by coordinating all visits through a single Farm Inspection Taskforce, which will involve farmers themselves and use data from existing industry schemes, such as Red Tractor. We will push for further reform of the EU’s Common Agricultural Policy. We will promote British food abroad by setting up a Great British Food Unit to help trademark and promote local foods around the world and back British food at home, by guaranteeing that all central government departments purchase food to British standards of production by the end of the Parliament. We will also help consumers to buy British by pushing for country of origin labelling in Europe, particularly for dairy products, following on from our success with beef, lamb, pork and poultry. And we will champion our new Groceries Code Adjudicator, so farmers receive a fair deal from the supermarkets.
 
-</span>
-<span class="page" id="page-24">
+<br class="page-break" />
 
-</span>
-<span class="page" id="page-25">
+<br class="page-break" />
 
 ##### We will support our fishing and coastal communities
 
@@ -430,11 +404,9 @@ We will defend our hard-won Common Fisheries Policy reforms, which include endin
 
 We will protect hunting, shooting and fishing, for all the benefits to individuals, the environment and the rural economy that these activities bring. A Conservative Government will give Parliament the opportunity to repeal the Hunting Act on a free vote, with a government bill in government time.
 
-</span>
-<span class="page" id="page-26">
+<br class="page-break" />
 
-</span>
-<span class="page" id="page-27">
+<br class="page-break" />
 
 ## Cutting your taxes and building a fairer welfare system
 
@@ -462,11 +434,9 @@ Real fairness means that where people really cannot work, they must be supported
 
 In the next Parliament, we will continue to reward hard work: raising the tax-free Personal Allowance so that those working 30 hours on the Minimum Wage pay
 
-</span>
-<span class="page" id="page-28">
+<br class="page-break" />
 
-</span>
-<span class="page" id="page-29">
+<br class="page-break" />
 
 ### The goal of welfare reform should be to reward hard work and protect the vulnerable
 
@@ -496,8 +466,7 @@ We have already legislated to introduce tax-free childcare in the next Parliamen
 
 We will keep a check on the growth of welfare spending, enabling us to provide a system that is fair to those who need it, and fair to those who pay for it too. Our overall welfare cap will limit the amount that government
 
-</span>
-<span class="page" id="page-30">
+<br class="page-break" />
 
 A welfare system that is fair to those who need it, and fair to those who pay for it too: stopping benefit cheats and ending welfare abuse
 
@@ -515,8 +484,7 @@ We will lower the maximum amount that a single household can claim in benefits e
 
 We will make sure the hardest to help receive the support they need for a fulfilling life. We will review how best to support those suffering from long-term yet treatable conditions, such as drug or alcohol addiction, or obesity, back into work. People who might benefit from treatment should get the medical help they need so they can return to work. If they refuse a recommended treatment, we will review whether their benefits should be reduced. We will also provide significant new support for mental health, benefiting thousands of people claiming out-of-work benefits or being supported by Fit for Work.
 
-</span>
-<span class="page" id="page-31">
+<br class="page-break" />
 
 ## Controlled immigration that benefits Britain
 
@@ -546,8 +514,7 @@ We have seen many more people from the EU coming to Britain than originally anti
 
 We will negotiate new rules with the EU, so that people will have to be earning here for a number of years before they can claim benefits, including the tax credits that top up low wages. Instead of something-for- nothing, we will build a system based on the principle of something-for-something. We will then put these changes to the British people in a straight in-out referendum on our membership of the European Union by the end of 2017. At the same time, we will continue to strengthen our borders, improve the enforcement of our immigration laws and act to make sure people leave at the end of their visas. Across the spectrum, from the student route to the family and work routes, we will build a system that truly puts you, your family and the British people first.
 
-</span>
-<span class="page" id="page-32">
+<br class="page-break" />
 
 #### Our plan of action:
 
@@ -569,8 +536,7 @@ We have already capped the level of skilled economic migration from outside the 
 
 We have introduced a ‘deport first, appeal later’ rule for foreign national offenders. We will now remove even more illegal immigrants by extending this rule to all immigration appeals and judicial reviews, including where a so-called right to family life is involved, apart from asylum claims. We will also implement a new removals strategy to take away opportunities for spurious legal challenge and opportunities to abscond. We will introduce satellite tracking for every foreign national offender subject to an outstanding deportation order or deportation proceedings. And we will implement the requirement for all landlords to check the immigration status of their tenants.
 
-</span>
-<span class="page" id="page-33">
+<br class="page-break" />
 
 ###### We will tackle people trafficking and exploitation
 
@@ -586,11 +552,9 @@ We are taking unprecedented action to tackle health tourism and will recover up 
 
 Being able to speak English is a fundamental part of integrating into our society. We have introduced tough new language tests for migrants and ensured councils reduce spending on translation services. Next, we will legislate to ensure that every public sector worker operating in a customer-facing role must speak fluent English. And to encourage better integration into our society, we will also require those coming to Britain on a family visa with only basic English to become more fluent over time, with new language tests for those seeking a visa extension.
 
-</span>
-<span class="page" id="page-34">
+<br class="page-break" />
 
-</span>
-<span class="page" id="page-35">
+<br class="page-break" />
 
 ## Giving your child the best start in life
 
@@ -618,8 +582,7 @@ There are over 250 new free schools – set up and run by local people – deliv
 
 We have made exams more rigorous and ended grade inflation. There is more to do. We will start by introducing tough new standards for literacy and numeracy in primary schools. We will expect every 11-year-old to know their times tables off by heart and be able to perform long division and complex multiplication. They should be able to read a book and write a short story with accurate punctuation, spelling and grammar. If children do not reach the required standards in their exams at the end of primary school, they will resit them at the start of secondary school, to make sure no pupil is left behind. We will require secondary school pupils to take GCSEs in English, maths, science, a language and history or geography, with Ofsted unable to award its highest ratings to schools that refuse to teach these core subjects.
 
-</span>
-<span class="page" id="page-36">
+<br class="page-break" />
 
 We will ensure there is a good primary school place for your child, with zero tolerance of failure
 
@@ -643,8 +606,7 @@ We have already given teachers greater disciplinary powers. In the next Parliame
 
 We have increased the time schools will spend on maths, and ensured that children learn to code as soon as they start school. Maths is now the most popular A-level subject. We aim to make Britain the best place in the world to study maths, science and engineering, measured by improved performance in the PISA league tables. To help achieve this, we will train an extra 17,500 maths and physics
 
-</span>
-<span class="page" id="page-37">
+<br class="page-break" />
 
 #### Schools budget protected with £5 billion given to tackle Labour’s school places crisis
 
@@ -674,11 +636,9 @@ This year, for the first time, over half a million people have been admitted to 
 
 We will maintain our universities’ reputation for world-class research and academic excellence. Through the Nurse Review of research councils, we will seek to ensure that the UK continues to support world-leading science, and invests public money in the best possible way. And we will encourage the development of online education as a tool for students, whether studying independently or in our universities.
 
-</span>
-<span class="page" id="page-38">
+<br class="page-break" />
 
-</span>
-<span class="page" id="page-39">
+<br class="page-break" />
 
 ## Protecting and improving our National Health Service
 
@@ -706,8 +666,7 @@ We are putting things right. We protected the NHS budget. Our doctors and nurses
 
 Despite this progress, our NHS faces major challenges. An ageing population will place more pressure on health and social care, and life-saving but expensive new drugs will push up costs. And for years it’s been too hard to access the NHS out of hours, even though sudden illness and events which you and your family cannot plan for do not respect normal working hours. We will rise to these challenges. By building a strong economy, we will be able to increase spending in real terms every year. With a future Conservative Government, you will have a truly 7-day NHS, at the frontier of science, offering you new drugs and treatments, safeguarded for years to come.
 
-</span>
-<span class="page" id="page-40">
+<br class="page-break" />
 
 #### Our plan of action:
 
@@ -739,8 +698,7 @@ We are helping people to stay healthy by ending the open display of tobacco in s
 
 ### People deserve patient-centred healthcare not more bureaucracy
 
-</span>
-<span class="page" id="page-41">
+<br class="page-break" />
 
 best to support those suffering from long-term yet treatable conditions, such as drug or alcohol addiction, or obesity, back in to work. We will be the first country to implement a national, evidence-based diabetes prevention programme. And we will invest more in primary care, to help prevent health problems before they start.
 
@@ -764,11 +722,9 @@ We have legislated to ensure that mental and physical health conditions are give
 
 We have led the world on fighting dementia, and will deliver our strategy – the Prime Minister’s Challenge on Dementia 2020 – making sure that everyone diagnosed with the condition gets a meaningful care plan to support them and their family. We will increase support for full- time unpaid carers. We will guarantee that you will not have to sell your home to fund your residential social care. Too many people spend their last days in hospital when they would prefer to die closer to home; we will support commissioners to combine better health and social care services for the terminally ill so that more people are able to die in a place of their choice. We will continue to integrate the health and social care systems, joining-up services between homes, clinics and hospitals, including through piloting new approaches like the pooling of around £6 billion of health and social care funding in Greater Manchester and the £5.3 billion Better Care Fund.
 
-</span>
-<span class="page" id="page-42">
+<br class="page-break" />
 
-</span>
-<span class="page" id="page-43">
+<br class="page-break" />
 
 ## Enabling you to enjoy our heritage, creativity and sports
 
@@ -802,8 +758,7 @@ We will keep our major national museums and galleries free to enter and enable o
 
 We will help public libraries to support local communities by providing free wi-fi. And we will assist them in embracing the digital age by working with them to ensure remote access to e-books, without charge and with appropriate compensation for authors that enhances the Public Lending Right scheme.
 
-</span>
-<span class="page" id="page-44">
+<br class="page-break" />
 
 #### We will support our media
 
@@ -831,16 +786,13 @@ We have already boosted funding for sport in primary schools and over 18,000 sch
 
 #### School Games supported with over £150 million of National Lottery and public money
 
-</span>
-<span class="page" id="page-45">
+<br class="page-break" />
 
 a minimum of two hours high-class sport and PE each week. We will improve the quality of Community Sports facilities, working with local authorities, the Football Association and the Premier League to fund investment in artificial football pitches in more than 30 cities across England. We will continue to invest in participation and physical activity, recognising sport’s vital benefits to health and to NHS England’s campaign to prevent diabetes. We will lift the number of women on national sports governing bodies to at least 25 per cent by 2017, and seek to increase participation in sport by women and girls.
 
-</span>
-<span class="page" id="page-46">
+<br class="page-break" />
 
-</span>
-<span class="page" id="page-47">
+<br class="page-break" />
 
 ## Helping you build the Big Society
 
@@ -868,8 +820,7 @@ A generation of teenagers has undertaken National Citizen Service (NCS), develop
 
 Over 130,000 young people have graduated from NCS and we have now guaranteed a place on NCS for every 16 and 17-year-old who wants one. In addition to this, we will increase the number of cadet units in schools, so that more students have the chance to learn skills such as leadership and self-reliance.
 
-</span>
-<span class="page" id="page-48">
+<br class="page-break" />
 
 #### We will innovate in how we deliver public services
 
@@ -887,8 +838,7 @@ governor. We have always believed that churches, faith groups and other voluntar
 
 Our historic introduction of gay marriage has helped drive forward equality and strengthened the institution of marriage. But there is still more to do, and we will continue to champion equality for Lesbian, Gay, Bisexual and Transgender people. We will build on the posthumous pardon of Enigma codebreaker Alan Turing, who committed suicide following his conviction for gross indecency, with a broader measure to lift the blight of outdated convictions of this nature. Thousands of British men still suffer from similar historic charges, even though they would be completely innocent of any crime today. Many others are dead and cannot correct this injustice themselves through the legal process we have introduced while in government. So we will introduce a new law that will pardon those people, and right these wrongs.
 
-</span>
-<span class="page" id="page-49">
+<br class="page-break" />
 
 ## Making government work better for you
 
@@ -920,11 +870,9 @@ We have reduced the cost of government, by selling empty buildings, managing big
 
 ### To eliminate the deficit, we must continue to cut out wasteful spending
 
-</span>
-<span class="page" id="page-50">
+<br class="page-break" />
 
-</span>
-<span class="page" id="page-51">
+<br class="page-break" />
 
 #### We will deliver better public services and more open government
 
@@ -946,11 +894,9 @@ While we still see a strong case for introducing an elected element into our sec
 
 Building on our introduction of individual voter registration, we will continue to make our arrangements fair and effective by ensuring the Electoral Commission puts greater priority on tackling fraud and considers insisting on proof of ID to vote. We will complete the electoral register, by working to include more of the five million Britons who live abroad. We will introduce votes for life, scrapping the rule that bars British citizens who have lived abroad for more than 15 years from voting. We will respect the will of the British people, as expressed in the 2011 referendum, and keep First Past the Post for elections to the House of Commons. And we will introduce English votes for English laws, answering the longstanding West Lothian Question in our democracy.
 
-</span>
-<span class="page" id="page-52">
+<br class="page-break" />
 
-</span>
-<span class="page" id="page-53">
+<br class="page-break" />
 
 ## Helping you to buy a home of your own
 
@@ -978,8 +924,7 @@ As the party of home ownership, we want to go further and faster – and this ma
 
 And for all those already in their home, we will make sure we continue working through our economic plan, so mortgage rates stay lower for longer and people can keep hold of their homes and plan for the future – safe in the knowledge they have a government that is competently looking after the public finances so they can look after their own.
 
-</span>
-<span class="page" id="page-54">
+<br class="page-break" />
 
 We will continue to work through our plan, so mortgage rates stay lower for longer
 
@@ -1011,8 +956,7 @@ We will support locally-led garden cities and towns and prioritise brownfield de
 
 We will support locally-led garden cities and towns in places where communities want them, such as Ebbsfleet and Bicester. When new homes are granted planning permission, we will make sure local communities know up-front that necessary infrastructure such as schools and roads will be provided. We will ensure that brownfield land is used as much as possible for new development. We will require local authorities to have a register of what is available, and ensure that 90 per cent of suitable brownfield sites have planning permission for housing by 2020. To meet the capital’s housing needs, we will create a new London Land Commission, with a mandate to identify and release all surplus brownfield land owned by the public sector. We will fund Housing Zones to transform brownfield sites into new housing, which will create 95,000 new homes.
 
-</span>
-<span class="page" id="page-55">
+<br class="page-break" />
 
 ##### Average council tax bills in England have fallen, in real terms, by 11 per cent
 
@@ -1024,8 +968,7 @@ Under this Government, average council tax bills in England have fallen, in real
 
 We want local authorities to help create strong local economies. Building on the local retention of business rates introduced in 2012, we will promote localism by allowing councils to keep a higher proportion of the business rates revenue that is generated in their area. This will provide a strong financial incentive for councils to promote economic growth. We will review how we can further reduce ring-fencing and remove Whitehall burdens to give councils more flexibility to support local services. We will support Business Improvement Districts and other forms of business-led collaboration on high streets – giving more say to local traders on issues such as minor planning applications, cleaning and parking. We will continue to support local shops and residents in tackling aggressive parking enforcement and excessive parking charges, and take steps to tackle rogue and unfair practices by private parking operators. Our Coastal Communities Fund will help our seaside areas thrive, helping to boost skills and create jobs.
 
-</span>
-<span class="page" id="page-56">
+<br class="page-break" />
 
 ## Protecting and enhancing our natural environment
 
@@ -1057,8 +1000,7 @@ We will spend £3 billion from the Common Agricultural Policy to enhance England
 
 We will continue to do even more to tackle air pollution and clean up our rivers and waterways, including supporting the Thames Tideway Tunnel. We have spent over £3 billion on improving flood defences, and capped the cost of flood insurance. We will now go further, building 1,400 new flood defence schemes, to protect 300,000 homes.
 
-</span>
-<span class="page" id="page-57">
+<br class="page-break" />
 
 #### We will build new infrastructure in an environmentally-sensitive way
 
@@ -1080,8 +1022,7 @@ The quality of the food on your plate, and the economic security of our farmers,
 
 As hosts of the London Conference on the Illegal Wildlife Trade, we helped secure the adoption of the London Declaration on Illegal Wildlife Trade and will continue to lead the world in stopping the poaching that kills thousands of rhinos, elephants and tigers each year. We will oppose any resumption of commercial whaling, and seek further measures at the EU and internationally to end shark-finning. We will promote effective worldwide measures for tuna conservation, press for a total ban on ivory sales, and support the Indian Government in its efforts to protect the Asian elephant. We will press for full ‘endangered species’ status for polar bears and a ban on the international trade in polar bear skins, as well as for greater attention to be paid to the impact of climate change on wildlife and habitats in Polar Regions in the Arctic Council and other international fora.
 
-</span>
-<span class="page" id="page-58">
+<br class="page-break" />
 
 ## Guaranteeing you clean, affordable and secure energy supplies
 
@@ -1115,8 +1056,7 @@ And we have delivered a better deal for consumers too. We have demanded that ene
 
 But the job is only half done. We need a Conservative Government to see through this long-term plan and secure clean but affordable energy supplies for generations to come. This means a significant expansion in new nuclear and gas; backing good-value green energy; and pushing for more new investment in UK energy sources. Healthy competition, not short-termist political intervention, is the best way to secure a good deal for consumers. So we will keep on relentlessly pushing for more competition to keep bills low.
 
-</span>
-<span class="page" id="page-59">
+<br class="page-break" />
 
 This is a long-term plan to keep the lights on; keep our homes warm; and keep families from endless worry about their energy bills.
 
@@ -1146,8 +1086,7 @@ Onshore wind now makes a meaningful contribution to our energy mix and has been 
 
 We have been the greenest government ever, setting up the world’s first Green Investment Bank, signing a deal to build the first new nuclear plant in a generation, trebling renewable energy generation to 19 per cent, bringing energy efficiency measures to over one million homes, and committing £1 billion for carbon capture and storage. We are the largest offshore wind market in the world. We will push for a strong global climate deal later this year – one that keeps the goal of limiting global warming to two-degrees firmly in reach. At home, we will continue to support the UK Climate Change Act. We will cut emissions as cost-effectively as possible, and will not support additional distorting and expensive power sector targets.
 
-</span>
-<span class="page" id="page-60">
+<br class="page-break" />
 
 ## Fighting crime and standing up for victims
 
@@ -1179,8 +1118,7 @@ We will carry on making every community safer, even when resources are tight. We
 
 We need to complete our revolution in the way we manage offenders in the community, using the latest technology to keep criminals on the straight and narrow. And we must also become smarter when it comes to crime prevention, dealing with the drivers of crime such as drugs and alcohol. So we will focus not only on punishment, but also on rehabilitating offenders and intervening early to prevent troubled young people being drawn into crime.
 
-</span>
-<span class="page" id="page-61">
+<br class="page-break" />
 
 ### Our plan of action:
 
@@ -1210,8 +1148,7 @@ We have already introduced a new Victims’ Code and taken steps to protect vuln
 
 We have made protecting women and girls from violence and supporting victims and survivors of sexual violence a key priority. We will now work with local authorities, the NHS and Police and Crime Commissioners to ensure a secure future for specialist FGM and forced marriage units, refuges and rape crisis centres. We will ensure that all publicly-funded advocates have specialist victims' training before becoming involved in serious sexual offences cases. We have set up an independant statutory inquiry into child sexual abuse, and will make sure it can challange institutions and individuals without fear or favour, and get to the truth. And we will continue the urgent work of overhauling how our police, social services and other agencies work together to protect vulnerable children, especially from the kind of organised grooming and sexual exploitation that has come to light in Rotherham, and other towns and cities across the UK.
 
-</span>
-<span class="page" id="page-62">
+<br class="page-break" />
 
 ##### We will toughen sentencing and use new technology to protect the public
 
@@ -1223,8 +1160,7 @@ We have stopped prisoners from having the vote, and have deported suspected terr
 
 ### We will scrap the Human Rights Act and introduce a British Bill of Rights
 
-</span>
-<span class="page" id="page-63">
+<br class="page-break" />
 
 ## Preventing terrorism, countering extremism
 
@@ -1256,11 +1192,9 @@ Dealing with these threats is not just about new powers. It is about how we comb
 
 We have strengthened counter-terrorism laws, including making it easier to stop British nationals travelling abroad to fight, and control the return of those who do. We will keep up to date the ability of the police and security services to access communications data – the ‘who, where, when and how’ of a communication, but not its content. Our new communications data legislation will strengthen our ability to disrupt terrorist plots, criminal networks and organised child grooming gangs, even as technology develops. We will maintain the ability of the authorities to intercept the content of suspects’ communications, while continuing to strengthen oversight of the use of these powers.
 
-</span>
-<span class="page" id="page-64">
+<br class="page-break" />
 
-</span>
-<span class="page" id="page-65">
+<br class="page-break" />
 
 ##### We will confront all forms of extremism, including non-violent extremism
 
@@ -1270,11 +1204,9 @@ We have already reformed the Prevent strategy so that it focuses on non-violent 
 
 terrorism legislation. To restrict the harmful activities of extremist individuals, we will create new Extremism Disruption Orders. These new powers might, for instance, prevent those who are seeking to radicalise young British people online from using the internet or communicating via social media. We will develop a strategy to tackle the infiltration of extremists into our schools and public services. We will strengthen Ofcom’s role so that tough measures can be taken against channels that broadcast extremist content. We will enable employers to check whether an individual is an extremist and bar them from working with children. And we will take further measures to ensure colleges and universities do not give a platform to extremist speakers.
 
-</span>
-<span class="page" id="page-66">
+<br class="page-break" />
 
-</span>
-<span class="page" id="page-67">
+<br class="page-break" />
 
 ## Dignity in your retirement
 
@@ -1310,11 +1242,9 @@ In the next five years, as our country recovers and our elderly population grows
 
 We will cap charges for residential social care from April 2016 and also allow deferred payment agreements, so no one has to sell their home. For the first time, individual liabilities will be limited, giving everyone the peace of mind that they will receive the care they need, and that they will be protected from unlimited costs if they develop very serious care
 
-</span>
-<span class="page" id="page-68">
+<br class="page-break" />
 
-</span>
-<span class="page" id="page-69">
+<br class="page-break" />
 
 #### We will continue to increase the Basic State Pension through our ‘triple lock’ guarantee
 
@@ -1330,11 +1260,9 @@ We have guaranteed that ISAs can now be passed on to a spouse tax-free, so that 
 
 It’s your money, you worked hard for it – and you should be able to pass it onto your loved-ones
 
-</span>
-<span class="page" id="page-70">
+<br class="page-break" />
 
-</span>
-<span class="page" id="page-71">
+<br class="page-break" />
 
 ## Stronger together: a Union for the 21st century
 
@@ -1362,8 +1290,7 @@ Our commitment to the Union means we want to strengthen it. We will let local pe
 
 In the last five years, we have proven that we are the party of the Union. We will go further in the next Parliament, pushing power out beyond Westminster, Cardiff Bay, Holyrood and Stormont, so we keep our United Kingdom strong and secure for the long term.
 
-</span>
-<span class="page" id="page-72">
+<br class="page-break" />
 
 ### Our plan of action:
 
@@ -1401,8 +1328,7 @@ continue to reserve policing and justice as matters for the UK Parliament.
 
 introduce a ‘funding floor’ to protect Welsh relative funding and provide certainty for the Welsh Government to plan for the future, once it has called a referendum on Income Tax powers in the next Parliament.
 
-</span>
-<span class="page" id="page-73">
+<br class="page-break" />
 
 make the Welsh Government responsible for raising more of the money it spends so the Welsh people can hold their politicians to account.
 
@@ -1418,8 +1344,7 @@ continue to work closely with the Northern Ireland Executive to implement commit
 
 complete the devolution of Corporation Tax powers to the Assembly, consistent with the Executive fulfilling its commitments on finance, welfare reform and efficiencies in the Stormont House Agreement.
 
-</span>
-<span class="page" id="page-74">
+<br class="page-break" />
 
 ## Real change in our relationship with the European Union
 
@@ -1449,8 +1374,7 @@ It will be a fundamental principle of a future Conservative Government that memb
 
 So the choice at this election is clear: Labour and the Liberal Democrats won’t give you a say over the EU. UKIP can’t give you a say. Only the Conservative Party will deliver real change in Europe – and only the Conservatives can and will deliver an in-out referendum.
 
-</span>
-<span class="page" id="page-75">
+<br class="page-break" />
 
 ### Our plan of action:
 
@@ -1478,11 +1402,9 @@ We will scrap Labour's Human Rights Act and introduce a British Bill of Rights w
 
 We want an EU that helps Britain move ahead, not one that holds us back. We have already succeeded in exempting our smallest businesses from new EU regulations, and kicked-off negotiations for a massive EU trade deal with the USA, which could be worth billions of pounds to the UK economy. We will build on this. We want to preserve the integrity of the Single Market, by insisting on protections for those countries that have kept their own currencies. We want to expand the Single Market, breaking down the remaining barriers to trade and ensuring that new sectors are opened up to British firms. We want to ensure that new rules target unscrupulous behaviour in the financial services industry, while safeguarding Britain as a global centre of excellence in finance. So we will resist EU attempts to restrict legitimate financial services activities. We will press for lower EU spending, further reform of the Common Agricultural Policy and Structural Funds, and for EU money to be focused on promoting jobs and growth.
 
-</span>
-<span class="page" id="page-76">
+<br class="page-break" />
 
-</span>
-<span class="page" id="page-77">
+<br class="page-break" />
 
 ## A Britain standing tall in the world
 
@@ -1506,8 +1428,7 @@ Only with a strong economy can we maintain our world- class Armed Forces and pro
 
 We will back this up with UK military power and international aid. Our long-term economic plan will ensure we have the economic strength to maintain our world-class Armed Forces, to uphold our national security and project power globally. Aid helps prevent failed states from becoming havens for terrorists. It builds long-term markets for our businesses, by promoting global prosperity, and reduces migration pressures. So we will maintain our commitment to tackling conflict, poverty and disease around the world.
 
-</span>
-<span class="page" id="page-78">
+<br class="page-break" />
 
 ## A stronger voice for our nation on the world stage
 
@@ -1547,8 +1468,7 @@ Our long-term security and prosperity depend on a stable international system th
 
 uphold our Special Relationship with the USA and further strengthen our ties with our close Commonwealth allies, Australia, Canada and New Zealand
 
-</span>
-<span class="page" id="page-79">
+<br class="page-break" />
 
 uphold the democratic rights of the people of Gibraltar and the Falkland Islands to remain British, for as long as that is their wish, and protect our Overseas Territories
 
@@ -1580,8 +1500,7 @@ Modern, flexible Armed Forces need strong reserve capacity, alongside strong reg
 
 ### We will do all we can to honour those who give so much
 
-</span>
-<span class="page" id="page-80">
+<br class="page-break" />
 
 #### We will continue to honour the Armed Forces Covenant
 
@@ -1607,18 +1526,15 @@ to clean water and sanitation, to stop terrible diseases. We will continue to le
 
 We will push for new global goals to eradicate extreme poverty by 2030 and promote human development, gender equality and good governance. We will work to prevent climate change and assist the poorest in adapting to it. As the route out of poverty is about much more than just aid, we will boost growth and jobs, making it easier for people to start up businesses and trade freely with each other. We will continue to promote the golden thread of democracy, the rule of law, property rights, a free media and open, accountable institutions. We will promote girls’ education, encourage equal access to property rights and work to achieve access to family planning for everyone who wants it. We will continue to lead efforts to tackle violence against women and girls, end FGM and combat early and forced marriage, both at home and abroad.
 
-</span>
-<span class="page" id="page-81">
+<br class="page-break" />
 
 #### We will help you fight poverty
 
 Our International Citizen Service has given thousands of young Brits the opportunity to volunteer abroad. We will triple it in size. We will also double our successful Aid Match scheme, which matches donations to charity from the aid budget. We will boost partnerships between UK institutions and their counterparts in the developing world, and help people in the UK give or lend money directly to individuals and entrepreneurs around the world.
 
-</span>
-<span class="page" id="page-82">
+<br class="page-break" />
 
-</span>
-<span class="page" id="page-83">
+<br class="page-break" />
 
 ## Conclusion
 
@@ -1638,9 +1554,6 @@ THIS MANIFESTO IS ABOUT IMPROVING THE LIVES OF EACH AND EVERY ONE OF THESE PEOPL
 
 Together we have come so far. If we stick to our long-term plan, we can secure a better future for you and your family. So let us keep moving forward; and set our sights on making our great country greater still.
 
-</span>
-<span class="page" id="page-84">
+<br class="page-break" />
 
 ### THE CONSERVATIVE PARTY MANIFESTO 2015
-
-</span>

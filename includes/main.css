@@ -29,6 +29,7 @@ header a {
 
 main {
     padding: 1px 2em;
+    max-width: 960px;
 }
 
 footer {
