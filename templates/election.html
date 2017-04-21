@@ -8,14 +8,19 @@
 {% endblock %}
 
 {% block main %}
-<p>{{ election.date.strftime("%A %d %B %Y") }}</p>
+<p>Date of this election: {{ election.date.strftime("%A %d %B %Y") }}</p>
+<p>Deadline for <a href="https://www.gov.uk/register-to-vote">registering to vote</a>: {{ election.registration_deadline.strftime("%A %d %B %Y") }}</p>
 
 <h2>Manifestos</h2>
+{% if election.manifestos %}
 <ul>
   {% for manifesto in election.manifestos %}
   <li>
     <a href="{{ manifesto.id }}">{{ manifesto.get("name", manifesto.id) }}</a></li>
   {% endfor %}
 </ul>
+{% else %}
+<p>No manifestos available yet.</p>
+{% endif %}
 
 {% endblock main %}
