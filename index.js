@@ -3,17 +3,17 @@ var layouts = require('metalsmith-layouts');
 var markdown = require('metalsmith-markdown');
 var debug = require('metalsmith-debug');
 var ignore = require('metalsmith-ignore');
-//var permalinks  = require('metalsmith-permalinks');
 
-Metalsmith(__dirname)          // instantiate Metalsmith in the cwd
+Metalsmith(__dirname)
     .use(ignore('*~'))
-    .source('src')        // specify source directory
-    .destination('build2')     // specify destination directory
+    .source('src')
+    .destination('build')
+    .clean(true)
     .use(debug())
-    .use(markdown())             // transpile markdown into html
-    .use(layouts({               // wrap a handlebars-layout
-	engine: 'handlebars'       // around transpiled html-files
+    .use(markdown())
+    .use(layouts({
+	engine: 'handlebars'
     }))    
-    .build(function(err) {       // this is the actual build process
-	if (err) throw err;    // throwing errors is required
+    .build(function(err) {
+	if (err) throw err;
     });
