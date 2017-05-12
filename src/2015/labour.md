@@ -1,3 +1,12 @@
+---
+name: The Labour Party Manifesto 2015
+party: The Labour Party
+party_website: http://www.labour.org.uk
+party_wikipedia: https://en.wikipedia.org/wiki/Labour_Party_%28UK%29
+source: http://www.labour.org.uk/page/-/BritainCanBeBetter-TheLabourPartyManifesto2015.pdf
+priority: 2
+---
+
 **Britain only succeeds when working people succeed. This is a plan to reward hard work, share prosperity and build a better Britain.**
 
 # Britain can be better

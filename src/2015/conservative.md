@@ -1,3 +1,12 @@
+---
+name: The Conservative Party Manifesto 2015
+party: The Conservative Party
+party_website: https://www.conservatives.com/
+party_wikipedia: https://en.wikipedia.org/wiki/Conservative_Party_%28UK%29
+source: https://s3-eu-west-1.amazonaws.com/manifesto2015/ConservativeManifesto2015.pdf
+priority: 1
+---
+
 # THE CONSERVATIVE PARTY MANIFESTO 2015
 
 **STRONG LEADERSHIP - A CLEAR ECONOMIC PLAN - A BRIGHTER, MORE SECURE FUTURE**
