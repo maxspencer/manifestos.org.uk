@@ -1,5 +1,5 @@
-build: index.js node_modules $(shell find src layouts assets)
-	node $<
+build: node_modules
+	node index.js
 	touch $@
 
 node_modules: package.json
@@ -11,4 +11,4 @@ clean:
 deploy:
 	aws --profile manifestos.org.uk s3 sync build s3://manifestos.org.uk --delete
 
-.PHONY: clean deploy
+.PHONY: build clean deploy

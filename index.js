@@ -17,7 +17,8 @@ Metalsmith(__dirname)
     .use(debug())
     .use(markdown())
     .use(layouts({
-	engine: 'handlebars'
+	engine: 'handlebars',
+	partials: 'partials'
     }))    
     .build(function(err) {
 	if (err) throw err;
