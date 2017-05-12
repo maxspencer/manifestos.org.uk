@@ -4,7 +4,12 @@
   "description": "Site hosting UK political manifestos",
   "main": "index.js",
   "dependencies": {
-    "metalsmith": "^2.3.0"
+    "handlebars": "^4.0.8",
+    "metalsmith": "^2.3.0",
+    "metalsmith-debug": "^1.1.0",
+    "metalsmith-ignore": "^0.1.2",
+    "metalsmith-layouts": "^1.8.1",
+    "metalsmith-markdown": "^0.2.1"
   },
   "devDependencies": {},
   "scripts": {
