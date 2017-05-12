@@ -1,4 +1,4 @@
-build: index.js node_modules
+build: index.js node_modules $(shell find src layouts assets)
 	node $<
 	touch $@
 
