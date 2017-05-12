@@ -1,0 +1,27 @@
+{
+  "name": "manifestos.org.uk",
+  "version": "0.1.0",
+  "description": "Site hosting UK political manifestos",
+  "main": "index.js",
+  "dependencies": {
+    "metalsmith": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxspencer/manifestos.org.uk.git"
+  },
+  "keywords": [
+    "website",
+    "static"
+  ],
+  "author": "Max Spencer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxspencer/manifestos.org.uk/issues"
+  },
+  "homepage": "https://github.com/maxspencer/manifestos.org.uk#readme"
+}
