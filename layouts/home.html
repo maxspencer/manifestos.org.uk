@@ -11,6 +11,12 @@
     </header>
     <main>
       {{{contents}}}
+      <h2>All elections</h2>
+      <ol>
+	{{#each ancestry.children}}
+	<li><a href="{{link.from ancestry.parent}}">{{title}}</a></li>
+	{{/each}}
+      </ol>
     </main>
     {{> footer}}
   </body>

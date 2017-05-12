@@ -4,22 +4,26 @@ var markdown = require('metalsmith-markdown');
 var debug = require('metalsmith-debug');
 var ignore = require('metalsmith-ignore');
 var assets = require('metalsmith-assets');
+var ancestry = require('metalsmith-ancestry');
+var links = require('metalsmith-relative-links');
 
 Metalsmith(__dirname)
-    .use(ignore('*~'))
+    .use(ignore('**/*~'))
     .source('src')
     .destination('build')
     .clean(true)
-    .use(assets({
-	source: './assets',
-	destination: './assets'
-    }))
+    .use(ancestry())
+    .use(links())
     .use(debug())
     .use(markdown())
     .use(layouts({
 	engine: 'handlebars',
 	partials: 'partials'
-    }))    
+    }))
+    .use(assets({
+	source: './assets',
+	destination: './assets'
+    }))
     .build(function(err) {
 	if (err) throw err;
     });
