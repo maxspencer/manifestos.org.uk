@@ -1,6 +1,11 @@
 ---
-title: UK general election 2015
+id: 2015
+layout: election.html
+name: UK general election 2015
 date: 2015-05-07
 registration_deadline: 2015-05-02
 wikipedia: https://en.wikipedia.org/wiki/United_Kingdom_general_election,_2015
 ---
+
+The 2015 UK general election took place on 7th May 2015 and resulted in a
+majority for the Conservative party.

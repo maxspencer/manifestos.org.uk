@@ -1,26 +1,26 @@
-{% extends "base.html" %}
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>{{name}} | manifestos.org.uk</title>
+    {{> head}}
+  </head>
+  <body>
+    <header>
+      <p><a href="/">manifestos.org.uk</a> / <a href=".">{{id}}</a></p>
+      <h1>{{name}}</h1>
+    </header>
+    <main>
+      {{{contents}}}
+      <h2>Manifestos</h2>
+      <ul>
+	{{#each ancestry.members}}
+	{{#unless @first}}
+	<li><a href="{{link.from ancestry.parent}}">{{name}}</a></li>
+	{{/unless}}
+	{{/each}}
+      </ul>
+    </main>
+    {{> footer}}
+  </body>
+</html>
 
-{% block title %}manifestos.org.uk / {{ election.id }}{% endblock%}
-
-{% block header %}
-<p><a href="/">manifestos.org.uk</a> / <a href="/{{ election.id }}">{{ election.id }}</a></p>
-<h1>{{ election.name }}</h1>
-{% endblock %}
-
-{% block main %}
-<p>Date of this election: {{ election.date.strftime("%A %d %B %Y") }}</p>
-<p>Deadline for <a href="https://www.gov.uk/register-to-vote">registering to vote</a>: {{ election.registration_deadline.strftime("%A %d %B %Y") }}</p>
-
-<h2>Manifestos</h2>
-{% if election.manifestos %}
-<ul>
-  {% for manifesto in election.manifestos %}
-  <li>
-    <a href="{{ manifesto.id }}">{{ manifesto.get("name", manifesto.id) }}</a></li>
-  {% endfor %}
-</ul>
-{% else %}
-<p>No manifestos available yet.</p>
-{% endif %}
-
-{% endblock main %}
