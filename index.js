@@ -6,12 +6,14 @@ var ignore = require('metalsmith-ignore');
 var assets = require('metalsmith-assets');
 var ancestry = require('metalsmith-ancestry');
 var links = require('metalsmith-relative-links');
+var paths = require('metalsmith-paths');
 
 Metalsmith(__dirname)
     .use(ignore('**/*~'))
     .source('src')
     .destination('build')
     .clean(true)
+    .use(paths())
     .use(ancestry())
     .use(links())
     .use(debug())

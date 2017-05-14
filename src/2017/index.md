@@ -1,6 +1,5 @@
 ---
 layout: election.html
-id: 2017
 name: UK general election 2017
 date: 2017-06-08
 registration_deadline: 2017-05-22

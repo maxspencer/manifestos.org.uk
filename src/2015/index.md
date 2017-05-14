@@ -1,5 +1,4 @@
 ---
-id: 2015
 layout: election.html
 name: UK general election 2015
 date: 2015-05-07
