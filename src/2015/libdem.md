@@ -1,4 +1,5 @@
 ---
+layout: manifesto.html
 name: The Liberal Democrat Manifesto 2015
 party: The Liberal Democrats
 party_website: http://www.libdems.org.uk/

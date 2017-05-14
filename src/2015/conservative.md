@@ -1,4 +1,5 @@
 ---
+layout: manifesto.html
 name: The Conservative Party Manifesto 2015
 party: The Conservative Party
 party_website: https://www.conservatives.com/

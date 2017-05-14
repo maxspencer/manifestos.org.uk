@@ -1,4 +1,5 @@
 ---
+layout: manifesto.html
 name: The Green Party Manifesto 2015
 party: The Green Party of England and Wales
 party_website: https://www.greenparty.org.uk/

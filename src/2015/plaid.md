@@ -1,4 +1,5 @@
 ---
+layout: manifesto.html
 name: The Plaid Cymru Manifesto 2015
 party: Plaid Cymru
 party_website: https://www.plaid.cymru/

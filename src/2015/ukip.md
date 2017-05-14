@@ -1,4 +1,5 @@
 ---
+layout: manifesto.html
 name: The UK Independence Party manifesto 2015
 party: The UK Independence Party
 party_website: http://www.ukip.org/

@@ -1,32 +1,21 @@
-{% extends "base.html" %}
-
-{% block title %}manifestos.org.uk / {{ election.id }} / {{ manifesto.id }}{% endblock %}
-
-{% block header %}
-<p>
-  <a href="/">manifestos.org.uk</a> /
-  <a href="/{{ election.id }}">{{ election.id }}</a> /
-  <a href="/{{ election.id }}/{{ manifesto.id }}">{{ manifesto.id }}</a>
-</p>
-<h1>{{ manifesto.get("name", manifesto.id) }}</h1>
-{% endblock header %}
-
-{% block main %}
-
-<div class="cover-page">
-  <img width=400 src="images/{{election.id}}-{{manifesto.id}}-manifesto-page-1.png"/>
-</div>
-
-<p>
-  <a href="text.html">Read the full text</a><br />
-  <a href="pages.html">See all pages</a>
-</p>
-
-<p>
-  Source: <a href="{{ manifesto.source }}">{{ manifesto.source }}</a>
-  (<a href="{{election.id}}-{{manifesto.id}}-manifesto.pdf">mirror</a>)
-</p>
-
-
-  
-{% endblock main %}
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>{{name}} on manifestos.org.uk</title>
+    {{> head}}
+  </head>
+  <body>
+    <header>
+      <p>
+	<a href="/">manifestos.org.uk</a> /
+	<a href="/{{path.dir}}">{{path.dir}}</a> /
+	<a href="">{{path.name}}</a>
+      </p>
+      <h1>{{name}}</h1>
+    </header>
+    <main>
+      {{{contents}}}
+    </main>
+    {{> footer}}
+  </body>
+</html>

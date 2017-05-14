@@ -1,4 +1,5 @@
 ---
+layout: manifesto.html
 name: The Scottish National Party manifesto 2015
 party: The Scottish National Party
 party_website: www.snp.org

@@ -1,4 +1,5 @@
 ---
+layout: manifesto.html
 name: The Labour Party Manifesto 2015
 party: The Labour Party
 party_website: http://www.labour.org.uk
