@@ -15,7 +15,7 @@
       <ul>
 	{{#each ancestry.members}}
 	{{#unless @first}}
-	<li><a href="{{link.from ancestry.parent}}">{{name}}</a></li>
+	<li><a href="{{link.from this}}">{{name}}</a></li>
 	{{/unless}}
 	{{/each}}
       </ul>
