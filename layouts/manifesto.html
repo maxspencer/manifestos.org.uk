@@ -14,8 +14,13 @@
       <h1>{{name}}</h1>
     </header>
     <main>
+      <div class="top">
+	<p><a href="{{#if special_pages_front}}#{{special_pages_front.[0]}}{{else}}#page-1{{/if}}">Read the web-friendly version</a></p>
+	<p><a href="{{#if special_pages_front}}#{{special_pages_front.[0]}}-image{{else}}#page-1-image{{/if}}">Read the original</a></p>
+	<p><a href="{{mirror}}">Download a PDF version</a></p>
+      </div>
       <div class="manifesto">
-	{{{contents}}}
+	{{{numbered_pages}}}
       </div>
     </main>
     {{> footer}}
