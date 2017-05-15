@@ -10,13 +10,15 @@ page_image_url: https://manifestos.imgix.net/2015/labour/
 ---
 
 <a class="page" id="cover-page">Cover page</a>
+
 **Britain only succeeds when working people succeed. This is a plan to reward hard work, share prosperity and build a better Britain.**
 
 # Britain can be better
 
 The Labour Party Manifesto 2015
 
-<a class="page"/>
+<a class="page" id="page-1">Page 1</a>
+
 ## The Labour Party Manifesto 2015
 
 ### Labour’s Manifesto Budget Responsibility Lock
@@ -31,9 +33,10 @@ A Labour government will cut the deficit every year. The first line of Labour’
 
 We will get national debt falling and a surplus on the current budget as soon as possible in the next parliament. This manifesto sets out that we will not compromise on this commitment.
 
-<a class="page"/>
+<a class="page" id="page-2">Page</a>
 
 <a class="page"/>
+
 ## Contents
 
 Foreword by Ed Miliband... [p5](#page-5)
@@ -54,7 +57,8 @@ Time for change... [p83](#page-83)
 
 <a class="page"/>
 
-<a class="page"/>
+<a class="page" id="page-5"/>
+
 ## Foreword
 
 We are a great country. With great people. In the last five years I have heard your stories, your hopes and your dreams. And I have heard too your frustrations.
