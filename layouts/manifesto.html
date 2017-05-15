@@ -22,6 +22,12 @@
       <div class="manifesto">
 	{{{numbered_pages}}}
       </div>
+      {{#each front_pages}}
+      <img src="{{../page_image_url}}{{this}}.jpg?w=100"/>
+      {{/each}}
+      {{#repeat count=number_pages start=1}}
+      <img src="{{page_image_url}}page-{{@index}}.jpg?w=100"/>
+      {{/repeat}}
     </main>
     {{> footer}}
   </body>

@@ -9,6 +9,7 @@ var links = require('metalsmith-relative-links');
 var paths = require('metalsmith-paths');
 var handlebars = require('handlebars');
 var cheerio = require('cheerio');
+var repeatHelper = require('handlebars-helper-repeat');
 
 handlebars.registerHelper('numbered_pages', function() {
     var $ = cheerio.load(this.contents);
@@ -25,6 +26,8 @@ handlebars.registerHelper('numbered_pages', function() {
     });
     return $.html();
 });
+
+handlebars.registerHelper('repeat', repeatHelper);
 
 Metalsmith(__dirname)
     .use(ignore('**/*~'))

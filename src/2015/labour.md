@@ -7,6 +7,9 @@ party_wikipedia: https://en.wikipedia.org/wiki/Labour_Party_%28UK%29
 source: http://www.labour.org.uk/page/-/BritainCanBeBetter-TheLabourPartyManifesto2015.pdf
 mirror: https://documents.manifestos.org.uk/2015/labour.pdf
 page_image_url: https://manifestos.imgix.net/2015/labour/
+front_pages:
+  - cover-page
+number_pages: 85
 ---
 
 <a class="page" id="cover-page">Cover page</a>

@@ -6,6 +6,7 @@
   "dependencies": {
     "cheerio": "^0.22.0",
     "handlebars": "^4.0.8",
+    "handlebars-helper-repeat": "^1.0.0",
     "metalsmith": "^2.3.0",
     "metalsmith-ancestry": "^1.2.1",
     "metalsmith-assets": "^0.1.0",
