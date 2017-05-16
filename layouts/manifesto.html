@@ -3,30 +3,42 @@
   <head>
     <title>{{name}} on manifestos.org.uk</title>
     {{> head}}
+    <style>
+      a.party-colors {
+        color: {{party_color}};
+      }
+      div.party-colors {
+        color: {{party_color_text}};
+        background-color: {{party_color}};
+      }
+    </style>
   </head>
   <body>
     <header>
-      <p>
-	<a href="/">manifestos.org.uk</a> /
-	<a href="/{{path.dir}}">{{path.dir}}</a> /
-	<a href="">{{path.name}}</a>
-      </p>
-      <h1>{{name}}</h1>
+      <div class="middle">
+	<p>
+	  <a class="party-colors" href="/">manifestos.org.uk</a> /
+	  <a class="party-colors" href="/{{path.dir}}">{{path.dir}}</a> /
+	  <a class="party-colors" href="">{{path.name}}</a>
+	</p>
+	<h1>{{name}}</h1>
+      </div>
     </header>
     <main>
-      <div class="top">
-	<p><a href="{{#if special_pages_front}}#{{special_pages_front.[0]}}{{else}}#page-1{{/if}}">Read the web-friendly version</a></p>
-	<p><a href="{{#if special_pages_front}}#{{special_pages_front.[0]}}-image{{else}}#page-1-image{{/if}}">Read the original</a></p>
-	<p><a href="{{mirror}}">Download a PDF version</a></p>
+      <div class="top party-colors">
+	<div class="middle">
+	  <img class="cover-page" src="{{page_image_url}}cover-page.jpg?w=400"/>
+	  <p>Hello world</p>
+	  <p><a href="{{#if special_pages_front}}#{{special_pages_front.[0]}}{{else}}#page-1{{/if}}">Read the web-friendly version</a></p>
+	  <p><a href="{{#if special_pages_front}}#{{special_pages_front.[0]}}-image{{else}}#page-1-image{{/if}}">Read the original</a></p>
+	  <p><a href="{{mirror}}">Download a PDF version</a></p>
+	</div>
       </div>
-      <div class="manifesto">
+      <div class="middle manifesto">
 	{{{numbered_pages}}}
       </div>
-      {{#each front_pages}}
-      <img src="{{../page_image_url}}{{this}}.jpg?w=100"/>
-      {{/each}}
       {{#repeat count=number_pages start=1}}
-      <img src="{{page_image_url}}page-{{@index}}.jpg?w=100"/>
+      <img id="page-{{@index}}-image" src="{{page_image_url}}page-{{@index}}.jpg?w=100"/>
       {{/repeat}}
     </main>
     {{> footer}}

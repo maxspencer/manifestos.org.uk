@@ -5,7 +5,12 @@ party: The Conservative Party
 party_website: https://www.conservatives.com/
 party_wikipedia: https://en.wikipedia.org/wiki/Conservative_Party_%28UK%29
 source: https://s3-eu-west-1.amazonaws.com/manifesto2015/ConservativeManifesto2015.pdf
-priority: 1
+mirror: https://documents.manifestos.org.uk/2015/conservative.pdf
+page_image_url: https://manifestos.imgix.net/2015/conservative/
+number_pages: 82
+party_color: "#0575c9"
+party_color_text: white
+
 ---
 
 # THE CONSERVATIVE PARTY MANIFESTO 2015

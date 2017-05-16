@@ -27,13 +27,8 @@ header a {
     text-decoration: none;
 }
 
-main {
-    padding: 1px 2em;
-    max-width: 960px;
-}
-
 footer {
-    margin-top: 3em;
+    margin: 5em;
     padding: 1px 2em;
     color: #aaa;
 }
@@ -53,6 +48,7 @@ footer a {
 }
 
 .manifesto {
+    clear: both;
     font-family: Georgia, serif;
 }
 
@@ -60,4 +56,26 @@ br.page-break {
     font-size: 0;
     line-height: 0;
     height: 0;
+}
+
+.top {
+    padding: 1px 0;
+}
+
+.middle {
+    max-width: 960px;
+    margin: 0em auto;
+    overflow: auto;
+}
+
+.top .middle {
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+.top .cover-page {
+    float: left;
+    margin-right: 2em;
+    box-shadow: 0.5em 0.5em 0 #222;
+    margin-bottom: 0.5em;
 }
