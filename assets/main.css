@@ -3,6 +3,7 @@ body {
     font-family: Arial, sans serif;
     color: #333;
     background: #fff;
+    line-height: 1.4em;
 }
 
 a {
@@ -49,7 +50,6 @@ footer a {
 
 .manifesto {
     clear: both;
-    font-family: Georgia, serif;
 }
 
 br.page-break {
@@ -78,4 +78,10 @@ br.page-break {
     margin-right: 2em;
     box-shadow: 0.5em 0.5em 0 #222;
     margin-bottom: 0.5em;
+}
+
+.manifesto-description {
+    font-size: 1.2em;
+    padding-bottom: 1em;
+    border-bottom: solid 1px #222;
 }

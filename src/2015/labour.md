@@ -10,6 +10,10 @@ page_image_url: https://manifestos.imgix.net/2015/labour/
 number_pages: 85
 party_color: "#ed1e0e"
 party_color_text: white
+description: >
+  The 2015 Labour party manifesto was published on 13th April 2015 and
+  present by the party leader Ed Miliband at the Old Granada Studios in Manchester.
+
 ---
 
 <a class="page" id="cover-page">Cover page</a>
