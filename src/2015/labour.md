@@ -24,7 +24,7 @@ description: >
 
 The Labour Party Manifesto 2015
 
-<a class="page" id="page-1">Page 1</a>
+<a class="page"/>
 
 ## The Labour Party Manifesto 2015
 
@@ -40,7 +40,7 @@ A Labour government will cut the deficit every year. The first line of Labour’
 
 We will get national debt falling and a surplus on the current budget as soon as possible in the next parliament. This manifesto sets out that we will not compromise on this commitment.
 
-<a class="page" id="page-2">Page</a>
+<a class="page"/>
 
 <a class="page"/>
 
@@ -64,7 +64,7 @@ Time for change... [p83](#page-83)
 
 <a class="page"/>
 
-<a class="page" id="page-5"/>
+<a class="page" id="page-5">Page 5</a>
 
 ## Foreword
 
@@ -90,10 +90,12 @@ For me, the privilege of serving as Prime Minister in our country would be for o
 
 <a class="page"/>
 
-<a class="page"/>
+<a class="page" id="page-7">Page 7</a>
+
 ## We will build a better future for Britain
 
 <a class="page"/>
+
 **Britain is a great country ready to build a better future. This manifesto sets out Labour’s plan for national renewal.**
 
 The British people, are known for tolerance, responsibility to others and for our belief in the value of hard work. We look confidently outward to the world. These are great British traditions - things we all believe in, things our country is good at. We are at our best when we work together. We see this every day in our workplaces, in our families, and in our communities. People want to get on, they want to give their children a better future, and they want to help to change Britain for the better.

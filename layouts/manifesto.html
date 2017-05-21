@@ -35,7 +35,7 @@
 	  {{#if description}}<p class="manifesto-description">{{description}}</p>{{/if}}
 	  <p>
 	    Scroll down to <a href="{{#if special_pages_front}}#{{special_pages_front.[0]}}{{else}}#page-1{{/if}}">read the full text</a> of the manifesto in a web-friendly format (recommended for mobile).
-	    Or <a href="{{#if special_pages_front}}#{{special_pages_front.[0]}}-image{{else}}#page-1-image{{/if}}">view the document as printed</a> with no need to download.
+	    Or <a href="{{#if special_pages_front}}#{{special_pages_front.[0]}}-original{{else}}#page-1-original{{/if}}">view the document as printed</a> with no need to download.
 	    Or if you prefer you can <a href="{{mirror}}">download the original PDF</a>.
 	  </p>
 	</div>
@@ -45,7 +45,14 @@
       </div>
       <div class="middle manifesto-images">
 	{{#repeat count=number_pages start=1}}
-	<img id="page-{{@index}}-image" src="{{page_image_url}}page-{{@index}}.jpg?w=100"/>
+	<div class="page-image-container">
+	  <img class="page-image" id="page-{{@index}}-original" src="{{page_image_url}}page-{{@index}}.jpg?w=100"/>
+	  <p class="page-anchor-container">
+	    <a href="#page-{{@index}}-original">Page {{@index}}</a>
+	    &ndash; <a class="text-version" href="#page-{{@index}}">Text version</a>
+	    &ndash; <a class="share-twitter" href="https://twitter.com/intent/tweet?url={{uriencode 'https://manifestos.org.uk'}}{{uriencode '#page-'}}{{@index}}{{uriencode '-original'}}&via=uk_manifestos">Tweet</a>
+	  </p>
+	</div>
 	{{/repeat}}
       </div>
     </main>
