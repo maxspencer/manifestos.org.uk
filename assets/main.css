@@ -6,14 +6,24 @@ body {
     line-height: 1.4em;
 }
 
+h1, h2, h3, h4, h5, h6 {
+    line-height: 1.2em;
+}
+
 a {
     color: #d56;
 }
 
+header, main, footer {
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
 header {
     margin: 0;
-    padding: 1px 2em;
     background: #222;
+    padding-top: 1px;
+    padding-bottom: 1px;
     color: #777;
 }
 
@@ -29,13 +39,12 @@ header a {
 }
 
 footer {
-    margin: 5em;
-    padding: 1px 2em;
+    margin: 5em 0;
     color: #aaa;
 }
 
 .divider {
-    width: 20em;
+    max-width: 20em;
     height: 0;
     border-top: solid 1px #ccc;
 }
@@ -59,8 +68,8 @@ br.page-break {
 }
 
 .top {
-    padding: 1px 0;
-    margin-bottom: 5em;
+    padding: 1px 1em;
+    margin: 0 -1em;
 }
 
 .middle {
