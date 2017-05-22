@@ -135,6 +135,15 @@ br.page-break {
     min-height: 200px;
 }
 
+@media screen and (max-width: 599px) {
+
+    .page-image-container {
+	margin: 0 -1em;
+	max-width: 800px;
+	border-width: 1px 0 0 0;
+    }
+}
+
 .page-image {
     display: block;
     width: 100%;
