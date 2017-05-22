@@ -76,11 +76,11 @@ br.page-break {
     max-width: 960px;
     margin-left: auto;
     margin-right: auto;
-    overflow: auto;
 }
 
 .top .middle {
     padding-top: 1em;
+    overflow: auto;
 }
 
 .top .cover-page-container {
@@ -132,11 +132,21 @@ br.page-break {
     margin: 1em auto;
     max-width: 800px;
     border: solid 1px #ccc;
+    min-height: 200px;
 }
 
 .page-image {
     display: block;
     width: 100%;
+    min-height: 200px;
+}
+
+.page-image.lazyloaded {
+    min-height: unset;
+}
+
+.page-image.lazyloading {
+    background: url(/assets/loading.gif) center no-repeat;
 }
 
 .page-image-container .page-anchor-container {

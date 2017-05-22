@@ -16,7 +16,7 @@
       }
     </style>
     <script src="/assets/imgix.min.js" async=""></script>
-    <script src="lazysizes.min.js" async=""></script>
+    <script src="/assets/lazysizes.min.js" async=""></script>
   </head>
   <body>
     <header>
@@ -49,7 +49,7 @@
       <div class="middle manifesto-images">
 	{{#repeat count=number_pages start=1}}
 	<div class="page-image-container">
-	  <img class="page-image" id="page-{{@index}}-original" src="{{page_image_url}}page-{{@index}}.jpg?w=100"/>
+	  <img class="page-image lazyload" id="page-{{@index}}-original" data-src="{{page_image_url}}page-{{@index}}.jpg?w=100"/>
 	  <p class="page-anchor-container">
 	    <a href="#page-{{@index}}-original">Page {{@index}}</a>
 	    &ndash; <a class="text-version" href="#page-{{@index}}">Text version</a>
