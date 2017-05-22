@@ -32,7 +32,9 @@
     <main>
       <div class="top party-colors">
 	<div class="middle">
-	  <img class="cover-page" src="{{page_image_url}}cover-page.jpg?w=400"/>
+	  <div class="cover-page-container">
+	    <img class="cover-page" src="{{page_image_url}}cover-page.jpg?w=400"/>
+	  </div>
 	  {{#if description}}<p class="manifesto-description">{{description}}</p>{{/if}}
 	  <p>
 	    Scroll down to <a href="{{#if special_pages_front}}#{{special_pages_front.[0]}}{{else}}#page-1{{/if}}">read the full text</a> of the manifesto in a web-friendly format (recommended for mobile).

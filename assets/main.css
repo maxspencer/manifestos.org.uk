@@ -80,15 +80,36 @@ br.page-break {
 }
 
 .top .middle {
-    margin-top: 2em;
-    margin-bottom: 2em;
+    padding-top: 1em;
+}
+
+.top .cover-page-container {
+    display: block;
+    max-width: 400px;
+    box-shadow: 0.5em 0.5em 0 #222;
+    margin: 0 auto 2.5em;
 }
 
 .top .cover-page {
-    float: left;
-    margin-right: 2em;
-    box-shadow: 0.5em 0.5em 0 #222;
-    margin-bottom: 0.5em;
+    display: block;
+    width: 100%;
+}
+
+@media screen and (min-width: 600px) {
+    .top .cover-page-container {
+	float: left;
+	width: 50%;
+	margin-right: 2.5em;
+    }
+
+    .top .middle {
+	padding-top: 2em;
+    }
+}
+
+.top p {
+    margin-top: 0;
+    margin-bottom: 2em;
 }
 
 .manifesto-description {
