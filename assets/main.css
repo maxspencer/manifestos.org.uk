@@ -134,6 +134,11 @@ br.page-break {
     border: solid 1px #ccc;
 }
 
+.page-image {
+    display: block;
+    width: 100%;
+}
+
 .page-image-container .page-anchor-container {
     position: absolute;
     top: 0;
