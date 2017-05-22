@@ -6,17 +6,21 @@
   </head>
   <body>
     <header>
-      <p>Political manifestos for the Internet</p>
-      <h1>manifestos.org.uk</h1>
+      <div class="middle">
+	<p>Political manifestos for the Internet</p>
+	<h1>manifestos.org.uk</h1>
+      </div>
     </header>
     <main>
-      {{{contents}}}
-      <h2>All elections</h2>
-      <ol>
-	{{#each ancestry.children}}
-	<li><a href="{{link.from ancestry.parent}}">{{name}}</a></li>
-	{{/each}}
-      </ol>
+      <div class="middle">
+	{{{contents}}}
+	<h2>All elections</h2>
+	<ol>
+	  {{#each ancestry.children}}
+	  <li><a href="{{link.from ancestry.parent}}">{{name}}</a></li>
+	  {{/each}}
+	</ol>
+      </div>
     </main>
     {{> footer}}
   </body>

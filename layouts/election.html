@@ -6,19 +6,23 @@
   </head>
   <body>
     <header>
-      <p><a href="/">manifestos.org.uk</a> / <a href=".">{{path.dir}}</a></p>
-      <h1>{{name}}</h1>
+      <div class="middle">
+	<p><a href="/">manifestos.org.uk</a> / <a href=".">{{path.dir}}</a></p>
+	<h1>{{name}}</h1>
+      </div>
     </header>
     <main>
-      {{{contents}}}
-      <h2>Manifestos</h2>
-      <ul>
-	{{#each ancestry.members}}
-	{{#unless @first}}
-	<li><a href="{{link.from this}}">{{name}}</a></li>
-	{{/unless}}
-	{{/each}}
-      </ul>
+      <div class="middle">
+	{{{contents}}}
+	<h2>Manifestos</h2>
+	<ul>
+	  {{#each ancestry.members}}
+	  {{#unless @first}}
+	  <li><a href="{{link.from this}}">{{name}}</a></li>
+	  {{/unless}}
+	  {{/each}}
+	</ul>
+      </div>
     </main>
     {{> footer}}
   </body>

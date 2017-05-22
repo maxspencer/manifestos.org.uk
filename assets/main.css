@@ -60,6 +60,7 @@ br.page-break {
 
 .top {
     padding: 1px 0;
+    margin-bottom: 5em;
 }
 
 .middle {
@@ -83,7 +84,6 @@ br.page-break {
 
 .manifesto-description {
     font-size: 1.3em;
-    margin-top: 0.2em;
     margin-bottom: 2em;
 }
 
